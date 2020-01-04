@@ -21,21 +21,30 @@ organizations:
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Political Parties
+- Election and Voting Behavior
+- Computational Statistics
+- Bayesian Statistics
+- Natural Language Processing
 
 education:
   courses:
   - course: Ph.D. Government
     institution: University of Texas
     year: expected 2021
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
+  - course: M.Sc. in Statistics
+    institution: University of Texas
+    year: 2019
+  - course: M.Sc. in Political Behaviour
+    institution: University of Essex
+    year: 2014
+  - course: M.A. in Political Science
+    institution: University of Erlangen-Nuremberg
+    year: 2013
+  - course: B.A. in Political Science and Sociology
+    institution: University of Erlangen-Nuremberg
+    year: 2011
+
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -70,6 +79,6 @@ user_groups:
 - Visitors
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Welcome to my website. I am a Political Science Ph.D. candidate in the Department of Government at the University of Texas at Austin.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+My research interests more generally focus on comparative politics and advanced quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the electoral behavior of parties and voters. In my dissertation I examine the determinants and consequences of negative attacks in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge in the mass public and media.
