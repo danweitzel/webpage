@@ -1,6 +1,6 @@
 ---
 # Display name
-name: Nelson Bighetti
+name: Daniel Weitzel
 
 # Username (this should match the folder name)
 authors:
@@ -14,7 +14,7 @@ role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations
 organizations:
-- name: Stanford University
+- name: University of Texas at Austin
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
