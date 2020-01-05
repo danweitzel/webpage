@@ -6,14 +6,14 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 62  # Order that this section will appear.
 
-title = "Research"
+title = "Teaching"
 subtitle = ""
 
 [content]
   # Page type to display. E.g. post, talk, or publication.
-  page_type = "publication"
+  page_type = "teaching"
   
   # Choose how much pages you would like to display (0 = all pages)
   count = 0
@@ -63,22 +63,13 @@ subtitle = ""
  css_class = ""
 +++
 
+### Statistics
+Statistical Analysis in Political Science II (TA, graduate level) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png), Teaching assistant of the year award)
 
-### Political Parties and Elections
-"Friends and Foes: How Parties Talk About Competitors and Coalition Partners" (Dissertation Chapter)
+Statistical Analysis in Political Science I (TA, graduate level) Fall 2018 ([evaluations](/files/fall18_stats1.png))
 
-"Curvilinearity in Political Parties:  Evidence from two SPD membership referenda" (with Kai J&auml;ger)
+### Comparative Politics
+Government and Politics of Western Europe (TA, undergraduate level) Fall 2016 - Fall 2017
 
-"The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
-
-### Voter Behavior and Knowledge
-"Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
-
-"Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park)
-
-
-### Natural Language Processing and Machine Learning
-"Tweet to win?  An analysis of the Twitter usage of British politicians" (with Iasmin Goes, Abhra Sarkar, and Peter M&uuml;ller) 
-
-"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood)
-
+### American Politics
+American Government (TA, undergraduate level) Fall 2015, Spring 2018

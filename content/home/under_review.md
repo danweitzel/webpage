@@ -6,9 +6,9 @@
 widget = "featured"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 60  # Order that this section will appear.
+weight = 59  # Order that this section will appear.
 
-title = "Research"
+title = "Under Review"
 subtitle = ""
 
 [content]
@@ -63,22 +63,10 @@ subtitle = ""
  css_class = ""
 +++
 
+"Why Monarchy? The Rise and Demise of a Regime Type" (with John Gerring, Kyosuke Kikuta, Jan Teorell, Wouter Veenendaal, and Tore Wig) *Revise and Resubmit at Comparative Political Studies*
 
-### Political Parties and Elections
-"Friends and Foes: How Parties Talk About Competitors and Coalition Partners" (Dissertation Chapter)
+"Electoral Contestation: A New Crossnational Measure and an Empirical Test" (with John Gerring and Allen Hicken) *Revise and Resubmit at Electoral Studies*
 
-"Curvilinearity in Political Parties:  Evidence from two SPD membership referenda" (with Kai J&auml;ger)
+"Negative Valence Attacks and Vote Choice in Europe" (with Zeynep Somer-Topcu)
 
-"The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
-
-### Voter Behavior and Knowledge
-"Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
-
-"Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park)
-
-
-### Natural Language Processing and Machine Learning
-"Tweet to win?  An analysis of the Twitter usage of British politicians" (with Iasmin Goes, Abhra Sarkar, and Peter M&uuml;ller) 
-
-"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood)
-
+"Attacking the competition: Negative Valence Attacks in Multi-Party Elections"

@@ -26,22 +26,23 @@ interests:
 - Computational Statistics
 - Bayesian Statistics
 - Natural Language Processing
+- Machine Learning
 
 education:
   courses:
   - course: Ph.D. Government
     institution: University of Texas
     year: expected 2021
-  - course: M.Sc. in Statistics
+  - course: M.Sc. Statistics
     institution: University of Texas
     year: 2019
-  - course: M.Sc. in Political Behaviour
+  - course: M.Sc. Political Behaviour
     institution: University of Essex
     year: 2014
-  - course: M.A. in Political Science
+  - course: M.A. Political Science
     institution: University of Erlangen-Nuremberg
     year: 2013
-  - course: B.A. in Political Science and Sociology
+  - course: B.A. Political Science and Sociology
     institution: University of Erlangen-Nuremberg
     year: 2011
 
@@ -81,4 +82,6 @@ user_groups:
 
 Welcome to my website. I am a Political Science Ph.D. candidate in the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin.
 
-My research interests more generally focus on comparative politics and advanced quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the electoral behavior of parties and voters. In my dissertation I examine the determinants and consequences of negative attacks in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge in the mass public and media.
+My research interests more generally focus on comparative politics and advanced quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. 
+
+In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge in the mass public and media.
