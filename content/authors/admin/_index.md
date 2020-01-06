@@ -23,7 +23,6 @@ bio: My research interests include distributed robotics, mobile computing and pr
 interests:
 - Political Parties
 - Election and Voting Behavior
-- Computational Statistics
 - Bayesian Statistics
 - Natural Language Processing
 - Machine Learning
