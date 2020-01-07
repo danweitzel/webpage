@@ -18,7 +18,7 @@ organizations:
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include party-voter interactions in elections and advanced quantitative and computational methods.
 
 interests:
 - Political Parties
