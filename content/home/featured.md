@@ -71,6 +71,8 @@ subtitle = ""
 
 "The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
 
+"Electoral Consequences of Leadership Changes in Parliamentary Democracies" (with Zeynep Somer-Topcu)
+
 ### Voter Behavior and Knowledge
 "Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
 
