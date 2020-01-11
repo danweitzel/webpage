@@ -15,7 +15,7 @@ role: Ph.D. Candidate
 # Organizations/Affiliations
 organizations:
 - name: University of Texas at Austin
-  url: ""
+  url: "https://liberalarts.utexas.edu/government/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include party-voter interactions in elections and advanced quantitative and computational methods.
