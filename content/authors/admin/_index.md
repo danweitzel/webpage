@@ -59,7 +59,7 @@ social:
   link: https://twitter.com/dweitzel
 #- icon: google-scholar
 #  icon_pack: ai
-#  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+#  link: https://scholar.google.com/citations?user=sIwtMXoAAAAJ
 - icon: github
   icon_pack: fab
   link: https://github.com/danweitzel
@@ -83,4 +83,4 @@ Welcome to my website. I am a Political Science Ph.D. candidate in the [Departme
 
 My research interests focus on comparative politics and advanced quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. 
 
-In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge in the mass public and media.
+In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media. 
