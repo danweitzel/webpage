@@ -64,9 +64,9 @@ subtitle = ""
 +++
 
 ### Statistics
-Statistical Analysis in Political Science II (TA, graduate level) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png), Teaching assistant of the year award)
+Statistical Analysis in Political Science II (TA, graduate level) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png))
 
-Statistical Analysis in Political Science I (TA, graduate level) Fall 2018 ([evaluations](/files/fall18_stats1.png))
+Statistical Analysis in Political Science I (TA, graduate level) Fall 2018 ([evaluations](/files/fall18_stats1.png), Teaching assistant of the year award)
 
 ### Comparative Politics
 Government and Politics of Western Europe (TA, undergraduate level) Fall 2016 - Fall 2017
