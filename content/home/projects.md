@@ -2,8 +2,8 @@
 # A Projects section created with the Portfolio widget.
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
-active = false  # Activate this widget? true/false
-weight = 65  # Order that this section will appear.
+active = true  # Activate this widget? true/false
+weight = 59  # Order that this section will appear.
 
 title = "Projects"
 subtitle = ""
@@ -74,4 +74,24 @@ subtitle = ""
  # CSS class.
  css_class = ""
 +++
+
+### Political Parties and Elections
+"Friends and Foes: How Parties Talk About Competitors and Coalition Partners" (Dissertation Chapter)
+
+"Curvilinearity in Political Parties:  Evidence from two SPD membership referenda" (with Kai J&auml;ger)
+
+"The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
+
+"Electoral Consequences of Leadership Changes in Parliamentary Democracies" (with Zeynep Somer-Topcu)
+
+### Voter Behavior and Knowledge
+"Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
+
+"Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park)
+
+
+### Natural Language Processing and Machine Learning
+"Tweet to win?  An analysis of the Twitter usage of British politicians" (with Iasmin Goes, Abhra Sarkar, and Peter M&uuml;ller) 
+
+"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood)
 
