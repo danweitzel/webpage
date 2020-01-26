@@ -1,11 +1,18 @@
+
+
 +++
 title = "Why Monarchy? The Rise and Demise of a Regime Type "
+
+# Page features
+share =  false 
 
 # Date first published.
 date = "2020-01-22"
 
 # Authors. Comma separated list, e.g.
 authors = ["John Gerring", "Kyosuke Kikuta", "Jan Teorell", "Wouter Veenendaal", "Daniel Weitzel", "Tore Wig"]
+
+
 
 # Publication type.
 # Legend:
@@ -66,6 +73,8 @@ highlight = true
 image_preview = ""
 #image = "/articles/paper_monarchies_4.png"
 caption = ""
+
+
 
 +++
 
