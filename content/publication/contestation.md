@@ -72,3 +72,6 @@ caption = ""
 
 +++
 
+![Changes in contestation as a country ages](../../img/articles/paper_contestation_3.png)
+
+

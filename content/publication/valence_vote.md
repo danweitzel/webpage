@@ -71,3 +71,5 @@ caption = ""
 
 +++
 
+![Conditional effects of valence attacks](../../img/articles/paper_valence1_1.png)
+

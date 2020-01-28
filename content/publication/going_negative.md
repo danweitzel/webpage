@@ -71,3 +71,5 @@ caption = ""
 
 +++
 
+![Valence Attack Analysis Results](../../img/articles/paper_valence2_4.png)
+

@@ -78,3 +78,7 @@ caption = ""
 
 +++
 
+![Monarchies in Europe](../../img/articles/paper_monarchies_3.png)
+
+![Monarchies in the world](../../img/articles/paper_monarchies_4.png)
+
