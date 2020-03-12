@@ -91,7 +91,7 @@ subtitle = ""
 
 
 ### Natural Language Processing and Machine Learning
-"Tweet to win?  An analysis of the Twitter usage of British politicians" (with Iasmin Goes, Abhra Sarkar, and Peter M&uuml;ller) 
+"Tweet to win?  An analysis of the Twitter usage of British politicians" (with Iasmin Goes, Vera Liu, Abhra Sarkar, and Peter M&uuml;ller) 
 
 "Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood)
 

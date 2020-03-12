@@ -7,8 +7,8 @@ headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
 weight = 58  # Order that this section will appear.
 
-#title = "Publications"
-title = "Under Review"
+#title = "Peer Reviewed"
+title = "Peer Reviewed"
 subtitle = ""
 
 [content]
@@ -26,7 +26,7 @@ subtitle = ""
 
   # Filter posts by a taxonomy term.
   [content.filters]
-    tag = "working_paper"
+    tag = "published"
     category = ""
     publication_type = ""
     exclude_featured = false
@@ -37,7 +37,7 @@ subtitle = ""
   #   2 = Compact
   #   3 = Card
   #   4 = Citation (publication only)
-  view = 2
+  view = 4
   
 [design.background]
   # Apply a background color, gradient, or image.

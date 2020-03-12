@@ -10,6 +10,9 @@ date = "2020-01-22"
 # Authors. Comma separated list, e.g.
 authors = ["Zeynep Somer-Topcu", "Daniel Weitzel"]
 
+tags = ["working_paper"]
+
+
 # Publication type.
 # Legend:
 # 0 = Uncategorized
@@ -43,7 +46,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "files/valence_vote_draft.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

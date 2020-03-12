@@ -12,7 +12,7 @@ date = "2020-01-22"
 # Authors. Comma separated list, e.g.
 authors = ["John Gerring", "Kyosuke Kikuta", "Jan Teorell", "Wouter Veenendaal", "Daniel Weitzel", "Tore Wig"]
 
-
+tags = ["published"]
 
 # Publication type.
 # Legend:
@@ -23,11 +23,11 @@ authors = ["John Gerring", "Kyosuke Kikuta", "Jan Teorell", "Wouter Veenendaal",
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Revise and Resubmit at *Comparative Political Studies*"
-publication_short = "R&R at *CPS*"
+publication = "Conditionally Accepted at *Comparative Political Studies*"
+publication_short = "Conditionally Accepted at *Comparative Political Studies*"
 
 # Abstract and optional shortened version.
 abstract = "Monarchy was the dominant form of rule in the pre-modern era and it persists in a handful of countries. We propose a unified theoretical explanation for its rise and decline. Specifically, we argue that monarchy offers an efficient solution to the primordial problem of order where societies are large and citizens isolated from each other and hence have difficulty coordinating. Its efficiency is challenged by other methods of leadership selection when communication costs decline, lowering barriers to citizen coordination. This explains its dominance in the pre-modern world and its subsequent demise. To test this theory, we produce an original dataset that codes monarchies and republics in Europe (back to 1100) and the world (back to 1700). With this dataset, we test a number of observable implications of the theory – centering on territory size, political stability, tenure in office, conflict, and the role of mass communications in the modern era."
@@ -48,7 +48,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "files/monarchy_draft.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""

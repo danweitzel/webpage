@@ -81,6 +81,7 @@ user_groups:
 
 Welcome to my website. I am a Political Science Ph.D. candidate in the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin.
 
-My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. 
+My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media. 
 
-In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media. 
+I have received an M.Sc. in Statistics from the [Department of Statistics and Data Science](https://stat.utexas.edu/) at the University of Texas at Austin. Before coming to UT Austin I received an M.Sc. in Political Behaviour from the [Department of Government](https://www.essex.ac.uk/departments/government) of the University of Essex/England and a B.A. and M.A. in Political Science and Sociology from the [Institute for Political Science](https://www.pol.phil.fau.eu/) at the Friedrich-Alexander University Erlangen-Nuremberg/Germany. 
+

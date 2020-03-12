@@ -1,14 +1,17 @@
 +++
-title = "Going Negative: Valence Attacks in Multi-Party Elections"
+title = "Valence Attacks in Multi-Party Elections"
 
 # Page features
 share =  false 
 
 # Date first published.
-date = "2020-01-22"
+date = "2020-03-11"
 
 # Authors. Comma separated list, e.g.
 authors = ["Daniel Weitzel"]
+
+tags = ["working_paper"]
+
 
 # Publication type.
 # Legend:
@@ -26,7 +29,7 @@ publication = "Under Review"
 publication_short = "Under Review"
 
 # Abstract and optional shortened version.
-abstract = "Why do political parties in multi-party competition attack each other? I argue that the larger number of parties and the coalition requirement in these systems increases the likelihood that negative campaigning backfires. Political parties therefore only use negative campaigning when these attacks appear legitimate. In multi-party systems driven by programmatic politics this means that we should see a focus on attacks related to policy proposals and not focused on the traits of individuals. Specifically, parties should attack their opponents on policies that belong to issues that they own. Using data from two recent elections each in twelve European countries I demonstrate that negative campaigning in multi-party systems is focused on incumbency and policy. Parties do not attack the character, honesty, or integrity of their competitors; instead, they hold governing parties accountable for their policies. The performance of parties in pre-election polls, while it is the central factor in two-party competition, is not an universal driver of negative campaigning across political systems."
+abstract = "How do political parties attack each other in multi-party systems? While voters in multi-party systems respond to attacks on the honesty, integrity, and competence of political actors, it is unclear whether and how political parties use these valence attacks strategically. I argue that valence attacks are more likely to occur in multi-party systems when they appear legitimate to voters. I connect the vast literature on spatial competition with the one on valence attacks and argue that incumbency and issue ownership increase the public perception of legitimacy and make attacks more likely. Using data from 18 recent elections in ten European countries, I show that valence attacks in multi-party systems focus on incumbents and are predominantly connected to substantive issues. These findings have important implications for the literature on valence attacks by parties as well as the one on strategic position taking in electoral competition."
 
 # Featured image thumbnail (optional)
 #image_preview = "/articles/paper_valence2_3.png"
@@ -43,13 +46,13 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "files/valence_attack_preprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = ""
+url_poster = "files/valence_attack_poster.pdf"
 url_source = ""
 
 # Custom links (optional).
@@ -65,7 +68,7 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "/articles/paper_valence2_3.png"
+#image = ""
 image = ""
 caption = ""
 
