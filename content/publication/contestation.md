@@ -11,7 +11,7 @@ date = "2020-01-15"
 # Authors. Comma separated list, e.g.
 authors = ["John Gerring", "Allen Hicken", "Daniel Weitzel"]
 
-tags = ["working_paper"]
+tags = ["working_paper","parties_elections"]
 
 # Publication type.
 # Legend:

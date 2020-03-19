@@ -25,8 +25,8 @@
 
 #[[main]]
 #  name = "Projects"
-#  url = "#projects"
-#  weight = 40
+#  url = "#working_papers"
+#  weight = 30
 
 [[main]]
   name = "Teaching"
