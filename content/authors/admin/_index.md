@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. Government
     institution: University of Texas
-    year: expected 2021
+    year: expected 2020
   - course: M.Sc. Statistics
     institution: University of Texas
     year: 2019
