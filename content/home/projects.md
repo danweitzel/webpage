@@ -93,5 +93,5 @@ subtitle = ""
 ### Natural Language Processing and Machine Learning
 "What We Talk About When We Talk About Politics: Measuring the Content of UK Election Campaigns Using Twitter Data" (with Iasmin Goes, Vera Liu, Abhra Sarkar, and Peter M&uuml;ller) 
 
-"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood)
+"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood, Preliminary U.S. Analysis can be found on [Github](https://github.com/notnews/notwork_news).) 
 
