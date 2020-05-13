@@ -26,7 +26,7 @@ publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
 publication = "Revise and Resubmit at *Political Research Quarterly*"
-publication_short = "R&R at *PRQ*"
+publication_short = "Revise and Resubmit at *PRQ*"
 
 # Abstract and optional shortened version.
 abstract = "The study of electoral competition generally focuses on districts or regions (rather than polities) or a narrow slice of democratic polities. We present a new national-level dataset that registers the performance of the top three parties in elections held in sovereign and semi-sovereign polities throughout the world from 1789 to the present. With this data, we present a new approach to aggregation that incorporates three components of contestation: the existence of elections, the closeness of the vote (competitiveness), and changes in performance of the top parties (turnover). To illustrate the utility of this new index we explore its possible impact on government consumption. We find that contestation has a curvilinear – inverted U – relationship to this outcome, a relationship not revealed with indices focused more narrowly on competitiveness."
