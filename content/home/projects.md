@@ -87,7 +87,7 @@ subtitle = ""
 ### Voter Behavior and Knowledge
 "Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
 
-"Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park)
+"Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park, [early Working paper](https://www.gsood.com/research/papers/misinformation_misinformation.pdf))
 
 
 ### Natural Language Processing and Machine Learning
