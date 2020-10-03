@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am a Political Science Ph.D. candidate in the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin.
+Welcome to my website. I am a post doctoral researcher at the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I recieved my Ph.D. in Political Science from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin.
 
 My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media. 
 
