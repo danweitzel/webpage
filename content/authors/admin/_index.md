@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Ph.D. Candidate
+role: Postdoc
 
 # Organizations/Affiliations
 organizations:
-- name: University of Texas at Austin
-  url: "https://liberalarts.utexas.edu/government/"
+- name: University of Vienna
+  url: "https://staatswissenschaft.univie.ac.at/team/wissenschaftliches-personal/daniel-weitzel/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include party-voter interactions in elections and quantitative and computational methods.
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daniel.weitzel@utexas.edu' 
+  link: 'mailto:daniel.weitzel@univie.ac.at' 
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dweitzel
@@ -79,7 +79,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am a Ph.D. candidate at the University of Texas at Austin and an incoming post doctoral researcher at the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I will  recieve my Ph.D. in Political Science from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin.
+Welcome to my website. I am a post doctoral researcher at the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I received my Ph.D. in Government from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin in 2020.
 
 My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media. 
 
