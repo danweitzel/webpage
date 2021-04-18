@@ -76,8 +76,6 @@ subtitle = ""
 +++
 
 ### Political Parties and Elections
-"Friends and Foes: How Parties Talk About Competitors and Coalition Partners" (Dissertation Chapter)
-
 "Curvilinearity in Political Parties:  Evidence from two SPD membership referenda" (with Kai J&auml;ger)
 
 "The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
@@ -85,6 +83,8 @@ subtitle = ""
 "Electoral Consequences of Leadership Changes in Parliamentary Democracies" (with Zeynep Somer-Topcu)
 
 ### Voter Behavior and Knowledge
+"French Political Knowledge" (Robert Luskin, Bruno Cautres, Sherry Lowrance)
+
 "Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
 
 "Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park, [early working paper](https://www.gsood.com/research/papers/misinformation_misinformation.pdf))
