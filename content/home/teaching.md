@@ -64,12 +64,14 @@ subtitle = ""
 +++
 
 ### Statistics
-Statistical Analysis in Political Science II (TA, graduate level) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png))
+Quantitative Methods for Empirical Social Sciences (University of Vienna, graduate) Fall 2020 ([evaluations](/files/fall20_quant.pdf)
 
-Statistical Analysis in Political Science I (TA, graduate level) Fall 2018 ([evaluations](/files/fall18_stats1.png), Teaching assistant of the year award)
+Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png))
+
+Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/fall18_stats1.png), Teaching assistant of the year award)
 
 ### Comparative Politics
-Government and Politics of Western Europe (TA, undergraduate level) Fall 2016 - Fall 2017
+Government and Politics of Western Europe (UT Austin, TA, undergraduate) Fall 2016 - Fall 2017
 
 ### American Politics
-American Government (TA, undergraduate level) Fall 2015, Spring 2018
+American Government (UT Austin, TA, undergraduate) Fall 2015, Spring 2018
