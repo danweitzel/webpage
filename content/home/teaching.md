@@ -64,7 +64,7 @@ subtitle = ""
 +++
 
 ### Statistics
-Quantitative Methods for Empirical Social Sciences (University of Vienna, graduate) Fall 2020 ([evaluations](/files/fall20_quant.pdf))
+Quantitative Methods for Empirical Social Sciences (University of Vienna, undergraduate) Fall 2020 ([evaluations](/files/fall20_quant.pdf))
 
 Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png))
 
