@@ -68,10 +68,10 @@ subtitle = ""
 
 Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 2016, Spring 2019 ([evaluations](/files/spring19_stats2.png))
 
-Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/fall18_stats1.png), Teaching assistant of the year award)
+Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/fall18_stats1.png), Teaching Assistant of the Year Award)
 
 ### Comparative Politics
-[Public Opinion and Voting](/files/bak13_public_opinion_syllabus.pdf) (University of Vienna, undergraduate) Summer 2021
+[Public Opinion and Voting](/files/bak13_public_opinion_syllabus.pdf) (University of Vienna, undergraduate) Spring 2021
 
 Government and Politics of Western Europe (UT Austin, TA, undergraduate) Fall 2016 - Fall 2017
 
