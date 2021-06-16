@@ -63,6 +63,9 @@ subtitle = ""
  css_class = ""
 +++
 
+### Bachelor Theses
+Bachelorseminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/bak18_eval_spring21.pdf))
+
 ### Statistics
 [Quantitative Methods for Empirical Social Sciences](/files/bak42_syllabus.pdf) (University of Vienna, undergraduate) Fall 2020 ([evaluations](/files/fall20_quant.pdf))
 
@@ -71,7 +74,7 @@ Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 20
 Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/fall18_stats1.png), Teaching Assistant of the Year Award)
 
 ### Comparative Politics
-[Public Opinion and Voting](/files/bak13_public_opinion_syllabus.pdf) (University of Vienna, undergraduate) Spring 2021
+[Public Opinion and Voting](/files/bak13_public_opinion_syllabus.pdf) (University of Vienna, undergraduate) Spring 2021  ([evaluations](/files/bak13_eval_spring21.pdf))
 
 Government and Politics of Western Europe (UT Austin, TA, undergraduate) Fall 2016 - Fall 2017
 
