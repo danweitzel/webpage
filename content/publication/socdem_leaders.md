@@ -52,7 +52,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "files/drafts/social_democratic_leaders.pdf"
+url_poster = " "
 url_source = ""
 
 # Custom links (optional).
