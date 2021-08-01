@@ -80,8 +80,6 @@ subtitle = ""
 
 "The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
 
-"Electoral Consequences of Leadership Changes in Parliamentary Democracies" (with Zeynep Somer-Topcu)
-
 ### Voter Behavior and Knowledge
 "French Political Knowledge" (Robert Luskin, Bruno Cautres, Sherry Lowrance)
 
@@ -91,7 +89,6 @@ subtitle = ""
 
 
 ### Natural Language Processing and Machine Learning
-"What We Talk About When We Talk About Politics: Measuring the Content of UK Election Campaigns Using Twitter Data" (with Iasmin Goes, Vera Liu, Abhra Sarkar, and Peter M&uuml;ller) 
 
 "Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood, Preliminary analysis based on over 5k cable news broadcasts can be found on [Github](https://github.com/notnews/notwork_news).) 
 

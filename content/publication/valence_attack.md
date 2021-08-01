@@ -46,13 +46,13 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "files/valence_attack_preprint.pdf"
+url_preprint = "files/drafts/valence_attack_preprint.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = "files/valence_attack_poster.pdf"
+url_poster = "files/drafts/valence_attack_poster.pdf"
 url_source = ""
 
 # Custom links (optional).

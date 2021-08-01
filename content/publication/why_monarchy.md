@@ -48,7 +48,7 @@ projects = []
 
 # Links (optional).
 url_pdf = "https://journals.sagepub.com/doi/full/10.1177/0010414020938090"
-url_preprint = "files/monarchy_draft.pdf"
+url_preprint = "files/drafts/monarchy_draft.pdf"
 url_code = ""
 url_dataset = "https://journals.sagepub.com/doi/suppl/10.1177/0010414020938090"
 url_project = ""

@@ -1,5 +1,5 @@
 +++
-title = "Valence Attacks and Vote Choice in Europe"
+title = "Negative Campaigning and Vote Choice in Europe"
 
 # Page features
 share =  false 
@@ -29,10 +29,10 @@ publication = "Under Review"
 publication_short = "Under Review"
 
 # Abstract and optional shortened version.
-abstract = "Political parties spend parts of their campaigns criticizing each others’ valence characteristics, such as their honesty, integrity, and competence. The goal with these attacks is to educate voters about other parties’ traits and influence their voting decisions against the targeted party. But do they work as expected? We argue that how voters react to these valence discussions is conditional on their partisanship. While copartisans are more likely to get mobilized in favour of their own party, we expect non-copartisans to punish the targeted party. Combining a dataset on party valence rhetoric with cross-national survey data from eight European countries we show that copartisans indeed rally behind their party when it is being targeted. Yet, our results also suggest that most non-copartisans, surprisingly, also reward the targeted party. These results have important implications for the political campaigns literature and for our understanding of voter behaviour."
+abstract = "Parties spend parts of their campaigns criticizing other parties’ performance and characteristics, such as honesty, integrity, unity. These attacks aim to affect the target parties’ electoral performance negatively. But do they work? We argue that while attacks are informative, how voters react to negative campaigning depends on their partisanship. While the target’s copartisans are more likely to get mobilized in favor of their party, the attacker’s copartisans are expected to punish the target, due to their respective partisan motivations. We expect different motivations to result in null effects of campaign attacks for other parties’ partisans and nonpartisans. Combining a new dataset on campaign rhetoric with survey data from eight European countries, we show support for most but not all of our expectations. These results have important implications for the electoral campaigns literature."
 
 # Featured image thumbnail (optional)
-#image_preview = "/articles/paper_valence1_1.png"
+#image_preview = "/articles/paper_negative_campaigning1_1.png"
 image_preview = ""
 
 # Is this a selected publication? (true/false)
@@ -46,7 +46,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = "files/valence_vote_draft.pdf"
+url_preprint = "files/drafts/negative_campaigning_vote.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
@@ -68,11 +68,11 @@ highlight = true
 # Featured image
 # Place your image in the `static/img/` folder and reference its filename below, e.g. `image = "example.jpg"`.
 [header]
-#image = "/articles/paper_valence1_1.png"
+#image = "/articles/paper_negative_campaigning1_1.png"
 image_preview = ""
 caption = ""
 
 +++
 
-![Conditional effects of valence attacks](../../img/articles/paper_valence1_1.png)
+![Conditional effects of valence attacks](../../img/articles/paper_negative_campaigning1_1.png)
 
