@@ -5,7 +5,7 @@ title = "Leadership Turnovers and Their Electoral Consequences"
 share =  false 
 
 # Date first published.
-date = "2020-03-11"
+date = "2021-08-01"
 
 # Authors. Comma separated list, e.g.
 authors = ["Zeynep Somer-Topcu, Daniel Weitzel"]
@@ -52,7 +52,7 @@ url_dataset = ""
 url_project = ""
 url_slides = ""
 url_video = ""
-url_poster = " "
+url_poster = ""
 url_source = ""
 
 # Custom links (optional).
