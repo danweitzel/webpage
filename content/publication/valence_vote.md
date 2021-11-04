@@ -10,7 +10,7 @@ date = "2020-01-22"
 # Authors. Comma separated list, e.g.
 authors = ["Zeynep Somer-Topcu", "Daniel Weitzel"]
 
-tags = ["working_paper","parties_elections"]
+tags = ["working_paper","parties_elections", "published"]
 
 
 # Publication type.
