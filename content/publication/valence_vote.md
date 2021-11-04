@@ -22,11 +22,11 @@ tags = ["working_paper","parties_elections"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "Under Review"
-publication_short = "Under Review"
+publication = "*Comparative Political Studies*"
+publication_short = "*Comparative Political Studies*"
 
 # Abstract and optional shortened version.
 abstract = "Parties spend parts of their campaigns criticizing other parties’ performance and characteristics, such as honesty, integrity, unity. These attacks aim to affect the target parties’ electoral performance negatively. But do they work? We argue that while attacks are informative, how voters react to negative campaigning depends on their partisanship. While the target’s copartisans are more likely to get mobilized in favor of their party, the attacker’s copartisans are expected to punish the target, due to their respective partisan motivations. We expect different motivations to result in null effects of campaign attacks for other parties’ partisans and nonpartisans. Combining a new dataset on campaign rhetoric with survey data from eight European countries, we show support for most but not all of our expectations. These results have important implications for the electoral campaigns literature."
