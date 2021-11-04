@@ -5,7 +5,7 @@ title = "Negative Campaigning and Vote Choice in Europe"
 share =  false 
 
 # Date first published.
-date = "2020-01-22"
+date = "2021-11-04"
 
 # Authors. Comma separated list, e.g.
 authors = ["Zeynep Somer-Topcu", "Daniel Weitzel"]
