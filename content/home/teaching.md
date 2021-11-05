@@ -64,7 +64,7 @@ subtitle = ""
 +++
 
 ### Bachelor Theses
-Bachelorseminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/evals/bak18_eval_spring21.pdf))
+Bachelor seminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/evals/bak18_eval_spring21.pdf))
 
 ### Statistics
 [Quantitative Methods for Empirical Social Sciences](/files/syllabus/bak42_syllabus.pdf) (University of Vienna, undergraduate) Fall 2020 ([evaluations](/files/evals/fall20_quant.pdf))
