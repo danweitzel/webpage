@@ -75,10 +75,17 @@ subtitle = ""
  css_class = ""
 +++
 
+### Natural Language Processing and Machine Learning
+ 
+"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood). Working paper is available [here](/files/drafts/not_news.pdf), preliminary analysis based on over 5k cable news broadcasts can be found on [Github](https://github.com/notnews/notwork_news).) 
+
+"Democracy: Global, Historical Measures Based on Observables" (with John Gerring, Dan Pemstein, Svend-Erik Skaaning). Working paper is available [here](/files/drafts/democracy_draft.pdf))
+
+
 ### Political Parties and Elections
 "Curvilinearity in Political Parties:  Evidence from two SPD membership referenda" (with Kai J&auml;ger)
 
-"The non-democratic consequences of intra-party democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
+"The Non-Democratic Consequences of Intra-Party Democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
 
 
 ### Voter Behavior and Knowledge
@@ -87,11 +94,4 @@ subtitle = ""
 "Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
 
 "Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park, [early working paper](https://www.gsood.com/research/papers/misinformation_misinformation.pdf))
-
-
-### Natural Language Processing and Machine Learning
- 
-"Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood). Working paper is available [here](/files/drafts/not_news.pdf), preliminary analysis based on over 5k cable news broadcasts can be found on [Github](https://github.com/notnews/notwork_news).) 
-
-"Democracy: Global, Historical Measures Based on Observables" (with John Gerring, Dan Pemstein, Svend-Erik Skaaning). Working paper is available [here](/files/drafts/democracy_draft.pdf))
 
