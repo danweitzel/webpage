@@ -57,7 +57,8 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "V-Dem Working Paper Series", url = "https://www.v-dem.net/media/filer_public/a4/4c/a44c9389-b9d3-491f-9577-f35e7d67638f/v-dem_working_paper_2018_73.pdf"}]
+
 
 # Does the content use math formatting?
 math = true
