@@ -57,7 +57,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "V-Dem WP", url = "files/drafts/v-dem_wp_contestation.pdf"}]
+url_custom = [{name = "V-Dem", url = "files/drafts/v-dem_wp_contestation.pdf"}]
 
 
 # Does the content use math formatting?
