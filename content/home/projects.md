@@ -79,7 +79,7 @@ subtitle = ""
  
 "Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood). Working paper is available [here](/files/drafts/not_news.pdf), preliminary analysis based on over 5k cable news broadcasts can be found on [Github](https://github.com/notnews/notwork_news).) 
 
-"Democracy: Global, Historical Measures Based on Observables" (with John Gerring, Dan Pemstein, Svend-Erik Skaaning). Working paper is available [here](/files/drafts/democracy_draft.pdf))
+"Democracy: Global, Historical Measures Based on Observables" (with John Gerring, Dan Pemstein, Svend-Erik Skaaning). 
 
 
 ### Political Parties and Elections
