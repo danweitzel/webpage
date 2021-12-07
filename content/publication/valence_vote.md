@@ -5,7 +5,7 @@ title = "Negative Campaigning and Vote Choice in Europe"
 share =  false 
 
 # Date first published.
-date = "2021-11-04"
+date = "2021-12-07"
 
 # Authors. Comma separated list, e.g.
 authors = ["Zeynep Somer-Topcu", "Daniel Weitzel"]
@@ -29,7 +29,7 @@ publication = "*Conditionally Accepted at Comparative Political Studies*"
 publication_short = "*Conditionally Accepted at Comparative Political Studies*"
 
 # Abstract and optional shortened version.
-abstract = "Parties spend parts of their campaigns criticizing other parties’ performance and characteristics, such as honesty, integrity, unity. These attacks aim to affect the target parties’ electoral performance negatively. But do they work? We argue that while attacks are informative, how voters react to negative campaigning depends on their partisanship. While the target’s copartisans are more likely to get mobilized in favor of their party, the attacker’s copartisans are expected to punish the target, due to their respective partisan motivations. We expect different motivations to result in null effects of campaign attacks for other parties’ partisans and nonpartisans. Combining a new dataset on campaign rhetoric with survey data from eight European countries, we show support for most but not all of our expectations. These results have important implications for the electoral campaigns literature."
+abstract = "Parties spend parts of their campaigns criticizing other parties’ performance and characteristics, such as honesty, integrity, and unity. These attacks aim to negatively affect the target parties’ electoral performance. But do they work? While attacks are informative, we argue that how voters react to negative campaigning depends on their partisanship. While the target’s copartisans are more likely to get mobilized in favor of their party, the attacker’s copartisans are expected to punish the target due to their respective partisan motivations. We expect null effects for attacks for partisans of third parties as well as nonpartisans. Combining a new dataset on campaign rhetoric with survey data from eight European countries, we show support for most but not all of our expectations. These results have important implications for the electoral campaigns literature."
 
 # Featured image thumbnail (optional)
 #image_preview = "/articles/paper_negative_campaigning1_1.png"
@@ -48,7 +48,7 @@ projects = []
 url_pdf = ""
 url_preprint = "files/drafts/negative_campaigning_vote.pdf"
 url_code = ""
-url_dataset = ""
+url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NAGTDV"
 url_project = ""
 url_slides = ""
 url_video = ""
