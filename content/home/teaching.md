@@ -67,7 +67,7 @@ subtitle = ""
 Bachelor seminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/evals/bak18_eval_spring21.pdf))
 
 ### Statistics
-[Quantitative Methods for Empirical Social Sciences](/files/syllabus/bak42_syllabus.pdf) (University of Vienna, undergraduate) Fall 2020 ([evaluations](/files/evals/fall20_quant.pdf))
+[Quantitative Methods for Empirical Social Sciences](/files/syllabus/bak42_syllabus.pdf) (University of Vienna, undergraduate) Evaluations: ([Fall 2020](/files/evals/fall20_quant.pdf)), ([Fall 2021, Class A](/files/evals/fall21_quant_1.pdf)), ([Fall 2021, Class B](/files/evals/fall21_quant_2.pdf))
 
 Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 2016, Spring 2019 ([evaluations](/files/evals/spring19_stats2.png))
 
