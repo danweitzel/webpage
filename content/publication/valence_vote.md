@@ -25,8 +25,8 @@ tags = ["parties_elections", "published"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = "*Forthcoming at Comparative Political Studies*"
-publication_short = "*Forthcoming at Comparative Political Studies*"
+publication = "*Comparative Political Studies*"
+publication_short = "*Comparative Political Studies*"
 
 # Abstract and optional shortened version.
 abstract = "Parties spend parts of their campaigns criticizing other parties’ performance and characteristics, such as honesty, integrity, and unity. These attacks aim to negatively affect the target parties’ electoral performance. But do they work? While attacks are informative, we argue that how voters react to negative campaigning depends on their partisanship. While the target’s copartisans are more likely to get mobilized in favor of their party, the attacker’s copartisans are expected to punish the target due to their respective partisan motivations. We expect null effects for attacks for partisans of third parties as well as nonpartisans. Combining a new dataset on campaign rhetoric with survey data from eight European countries, we show support for most but not all of our expectations. These results have important implications for the electoral campaigns literature."
@@ -45,7 +45,7 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://journals.sagepub.com/eprint/ATQRDZQENC35IYV6YX86/full"
 url_preprint = "files/drafts/negative_campaigning_vote.pdf"
 url_code = ""
 url_dataset = "https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/NAGTDV"
