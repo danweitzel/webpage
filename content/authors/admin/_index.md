@@ -60,6 +60,9 @@ social:
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.com/citations?user=RpLfncIAAAAJ
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-1431-2542
 - icon: github
   icon_pack: fab
   link: https://github.com/danweitzel
