@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoc
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Vienna
-  url: "https://staatswissenschaft.univie.ac.at/ueber-uns/wissenschaftliches-personal/daniel-weitzel/"
+- name: Colorado State University
+  url: ""
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include party-voter interactions in elections and quantitative and computational methods.
@@ -53,7 +53,7 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:daniel.weitzel@univie.ac.at' 
+  link: 'mailto:daniel.weitzel@colostate.edu'
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/dweitzel
@@ -82,9 +82,8 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am an incoming assistant professor at the [Department of Political Science](https://polisci.colostate.edu/) at Colorado State University. I received my Ph.D. in Government from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin in 2020 and was a postdoctoral researcher at the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna between 2020-22. 
+Welcome to my website. I am an assistant professor at the [Department of Political Science](https://polisci.colostate.edu/) at Colorado State University. I received my Ph.D. in Government from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin in 2020 and was a postdoctoral researcher at the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna between 2020-22.
 
-My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media. 
+My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media.
 
-I have received an M.Sc. in Statistics from the [Department of Statistics and Data Science](https://stat.utexas.edu/) at the University of Texas at Austin. Before coming to UT Austin I received an M.Sc. in Political Behaviour from the [Department of Government](https://www.essex.ac.uk/departments/government) of the University of Essex/England and a B.A. and M.A. in Political Science and Sociology from the [Institute of Political Science](https://www.pol.phil.fau.eu/) at the Friedrich-Alexander University Erlangen-Nuremberg/Germany. 
-
+I have received an M.Sc. in Statistics from the [Department of Statistics and Data Science](https://stat.utexas.edu/) at the University of Texas at Austin. Before coming to UT Austin I received an M.Sc. in Political Behaviour from the [Department of Government](https://www.essex.ac.uk/departments/government) of the University of Essex/England and a B.A. and M.A. in Political Science and Sociology from the [Institute of Political Science](https://www.pol.phil.fau.eu/) at the Friedrich-Alexander University Erlangen-Nuremberg/Germany.
