@@ -82,7 +82,7 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am an assistant professor at the [Department of Political Science](https://polisci.colostate.edu/) at Colorado State University. I received my Ph.D. in Government from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin in 2020 and was a postdoctoral researcher at the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna between 2020-22.
+Welcome to my website. I am an assistant professor in the [Department of Political Science](https://polisci.colostate.edu/) at Colorado State University. I received my Ph.D. in Government from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin in 2020 and was a postdoctoral researcher in the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna between 2020-22.
 
 My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media.
 
