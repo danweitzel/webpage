@@ -63,9 +63,6 @@ subtitle = ""
  css_class = ""
 +++
 
-### Bachelor Theses
-Bachelor seminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/evals/bak18_eval_spring21.pdf))
-
 ### Methodology
 [Research Methods for Political Science](/files/syllabus/sm_syllabus_2022.pdf)  (Colorado State, Graduate)
 
@@ -77,7 +74,7 @@ Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 20
 
 Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/evals/fall18_stats1.png), Teaching Assistant of the Year Award)
 
-### Comparative Politics
+### Comparative Politics & Political Behavior
 [Political Psychology](/files/syllabus/syllabus_pol308_fall22.pdf)  (Colorado State, Undergraduate)
 
 Negative Campaigning in Electoral Politics (University of Vienna, graduate) Fall 2022  ([evaluations](/files/evals/spring22_m7.pdf))
@@ -85,6 +82,9 @@ Negative Campaigning in Electoral Politics (University of Vienna, graduate) Fall
 [Public Opinion and Voting](/files/syllabus/bak13_public_opinion_syllabus.pdf) (University of Vienna, undergraduate) Spring 2021  ([evaluations](/files/evals/bak13_eval_spring21.pdf))
 
 Government and Politics of Western Europe (UT Austin, TA, undergraduate) Fall 2016 - Fall 2017
+
+### Bachelor Theses
+Bachelor seminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/evals/bak18_eval_spring21.pdf))
 
 ### American Politics
 American Government (UT Austin, TA, undergraduate) Fall 2015, Spring 2018
