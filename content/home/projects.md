@@ -79,12 +79,6 @@ subtitle = ""
 
 "Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood). Working paper is available [here](/files/drafts/not_news.pdf), preliminary analysis based on over 5k cable news broadcasts can be found on [Github](https://github.com/notnews/notwork_news).)
 
-### Political Parties and Elections
-"Curvilinearity in Political Parties:  Evidence from two SPD membership referenda" (with Kai J&auml;ger)
-
-"The Non-Democratic Consequences of Intra-Party Democracy:  Evidence from the SPD membership referendum" (with Kai J&auml;ger)
-
-
 ### Voter Behavior and Knowledge
 "French Political Knowledge" (Robert Luskin, Bruno Cautres, Sherry Lowrance)
 
