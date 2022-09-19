@@ -66,16 +66,20 @@ subtitle = ""
 ### Bachelor Theses
 Bachelor seminar, 23 students (University of Vienna, undergraduate) Spring 2021 ([evaluations](/files/evals/bak18_eval_spring21.pdf))
 
-### Statistics
+### Methodology
+[Research Methods for Political Science](/files/syllabus/sm_syllabus_2022.pdf)  (Colorado State, Graduate)
+
 Research Methods for Political Science (University of Vienna, graduate) Evaluations: ([Spring 2022](/files/evals/spring22_m2.pdf))
 
-[Quantitative Methods for Empirical Social Sciences](/files/syllabus/bak42_syllabus.pdf) (University of Vienna, undergraduate) Evaluations: ([Fall 2020](/files/evals/fall20_quant.pdf), Fall 2021 [Class A](/files/evals/fall21_quant_1.pdf), [Class B](/files/evals/fall21_quant_2.pdf))
+[Quantitative Methods for Empirical Social Sciences](/files/syllabus/bak42_syllabus.pdf) (University of Vienna, undergraduate) Evaluations: ([Fall 2020evaluations](/files/evals/fall20_quant.pdf), Fall 2021 [Class A](/files/evals/fall21_quant_1.pdf), [Class B](/files/evals/fall21_quant_2.pdf))
 
 Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 2016, Spring 2019 ([evaluations](/files/evals/spring19_stats2.png))
 
 Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/evals/fall18_stats1.png), Teaching Assistant of the Year Award)
 
 ### Comparative Politics
+[Political Psychology](/files/syllabus/syllabus_pol308_fall22.pdf)  (Colorado State, Undergraduate)
+
 Negative Campaigning in Electoral Politics (University of Vienna, graduate) Fall 2022  ([evaluations](/files/evals/spring22_m7.pdf))
 
 [Public Opinion and Voting](/files/syllabus/bak13_public_opinion_syllabus.pdf) (University of Vienna, undergraduate) Spring 2021  ([evaluations](/files/evals/bak13_eval_spring21.pdf))
