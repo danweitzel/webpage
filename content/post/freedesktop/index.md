@@ -8,7 +8,7 @@ authors: [Daniel Weitzel]
 tags: []
 categories: [software]
 date: 2023-01-19T09:44:57+01:00
-lastmod: 2023-01-19T09:44:57+01:00
+lastmod: 2023-01-19T09:45:00+01:00
 featured: true
 draft: false
 
