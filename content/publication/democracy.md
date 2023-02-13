@@ -77,6 +77,6 @@ caption = ""
 
 +++
 
-![Monarchies in Europe](../../img/articles/paper_monarchies_3.png)
+![Evaluating performance in training and validation set](../../img/articles/democracy.png)
 
-![Monarchies in the world](../../img/articles/paper_monarchies_4.png)
+![Examining patterns in the predictions](../../img/articles/democracy2.png)
