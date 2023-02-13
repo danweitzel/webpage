@@ -68,7 +68,7 @@ subtitle = ""
   # text_color_light = true  
 
 [advanced]
- # Custom CSS.
+ # Custom CSS. 
  css_style = ""
 
  # CSS class.
@@ -80,8 +80,6 @@ subtitle = ""
 "Not News: Provision of Apolitical News in the U.S. News Media" (with Suriyan Laohaprapanon and Gaurav Sood). Working paper is available [here](/files/drafts/not_news.pdf), preliminary analysis based on over 5k cable news broadcasts can be found on [Github](https://github.com/notnews/notwork_news).)
 
 ### Voter Behavior and Knowledge
-"French Political Knowledge" (Robert Luskin, Bruno Cautres, Sherry Lowrance)
-
 "Hidden Knowledge, Veiled Ignorance: Do People Know More – or Even Less – about Politics than Commonly Thought?" (with Robert C. Luskin, and Gaurav Sood)
 
 "Misinformation about Misinformation? Of Headlines and Survey Design" (with Robert C. Luskin, Gaurav Sood, and Yul Min Park, [early working paper](https://www.gsood.com/research/papers/misinformation_misinformation.pdf))
