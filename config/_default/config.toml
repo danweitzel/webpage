@@ -13,7 +13,7 @@ baseurl = "https://www.danweitzel.net/"
 
 # Google Analytics
 #GoogleAnalytics = "UA-73378584-1"
-GoogleAnalytics = "G-RTPHH6TZJE"
+GoogleAnalytics = "G-4FFLGCTNCP"
 
 # Enter a copyright notice to display in the site footer.
 # To display a copyright symbol, type `&copy;`. For current year, type `{year}`.
