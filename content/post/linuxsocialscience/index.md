@@ -40,7 +40,7 @@ This guide is focused on Ubuntu, or Ubuntu-based operating systems. You can chec
 
 ## Using the terminal
 
-We'll use the terminal a lot in this guide. You can open it with `Super + t` on Pop!_OS and `Alt+Shift+t` on Ubuntu. If you have never used the terminal before I recommend you check out this guide by Canonical (here)[https://ubuntu.com/tutorials/command-line-for-beginners#1-overview].
+We'll use the terminal a lot in this guide. You can open it with `Super + t` on Pop!_OS and `Alt+Shift+t` on Ubuntu. If you have never used the terminal before I recommend you check out this guide by Canonical [here](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
 
 ## Early configs 
 
@@ -52,7 +52,7 @@ sudo apt update && sudo apt upgrade
 sudo pop-upgrade recovery upgrade from-release 
 ```
 
-If you are using Pop!_OS on a laptop with a GPU you might want to enable (hybrid graphics)[https://support.system76.com/articles/graphics-switch-pop/] to save some battery:
+If you are using Pop!_OS on a laptop with a GPU you might want to enable [hybrid graphics](https://support.system76.com/articles/graphics-switch-pop/) to save some battery:
 
 ```
 sudo system76-power graphics hybrid
@@ -168,7 +168,7 @@ sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev
 
 ### Installing R Studio 
 
-While we can install R Studio with the terminal I'd have to regularly update the blog post to add the correct link. To make my life easier I recommend you just head to the Posit website and download (R Studio)[https://posit.co/download/rstudio-desktop/]. 
+While we can install R Studio with the terminal I'd have to regularly update the blog post to add the correct link. To make my life easier I recommend you just head to the Posit website and download [R Studio](https://posit.co/download/rstudio-desktop/). 
 
 If you don't know what version you need you can run the following code in your terminal:
 
@@ -197,7 +197,7 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.11
 ```
 
-If you want to use Anaconda the installation guide is on their website. You can find it (here)[https://docs.anaconda.com/anaconda/install/linux/]
+If you want to use Anaconda the installation guide is on their website. You can find it [here](https://docs.anaconda.com/anaconda/install/linux/)
 
 
 ## LaTeX
@@ -217,7 +217,7 @@ sudo apt install texlive-full
 ```
 
 
-Once you have installed LaTeX you also need an editor to write your documents in. Personally, I use emacs for this purpose. While emacs is great and has enormous customizability it also comes with somewhat of a learning curve. If you just want a LaTeX editor to be able to start writing I recommend (TeXstudio)[https://www.texstudio.org/]. 
+Once you have installed LaTeX you also need an editor to write your documents in. Personally, I use emacs for this purpose. While emacs is great and has enormous customizability it also comes with somewhat of a learning curve. If you just want a LaTeX editor to be able to start writing I recommend [TeXstudio](https://www.texstudio.org/). 
 
 ```
 sudo add-apt-repository ppa:sunderme/texstudio
@@ -225,13 +225,13 @@ sudo apt update
 sudo apt install texstud
 ```
 
-If you want to use Sublime Text you can find a good guide (here)[https://tspeckhofer.github.io/2021/07/17/latex-and-sublime-text.html]
+If you want to use Sublime Text you can find a good guide [here](https://tspeckhofer.github.io/2021/07/17/latex-and-sublime-text.html)
 
 ## Pandoc
 
 Pandoc is an amazing piece of software that will allow us to convert our plain text markdown or LaTeX files into various different file formats. Even Word documents! 
 
-There are again two ways to install this software. We can use the version in the Ubuntu repositories or a more recent version from the developer. Everything I use `pandoc` for works with the older version in the Ubuntu repositories. Hence, I just go with that. However, if you want to have the newest version check out the installation instructions (here)[https://github.com/jgm/pandoc/blob/main/INSTALL.md]
+There are again two ways to install this software. We can use the version in the Ubuntu repositories or a more recent version from the developer. Everything I use `pandoc` for works with the older version in the Ubuntu repositories. Hence, I just go with that. However, if you want to have the newest version check out the installation instructions [here](https://github.com/jgm/pandoc/blob/main/INSTALL.md)
 
 If you are okay with an older version go ahead and install it with the following command. 
 
@@ -255,7 +255,7 @@ pandoc manuscript.tex --bibliography=library.bib -o manuscript.docx
 
 ## Git 
 
-Git is software used for version control. It does an amazing job tracking changes in plain text files. You can find a great intro to git on [opensource.com](https://opensource.com/article/18/1/step-step-guide-git). You can use it locally on your computer or in connection with a cloud service. (Gitlab)[https://about.gitlab.com/] and (Github)[https://github.com/] are very popular options with free private repositories. 
+Git is software used for version control. It does an amazing job tracking changes in plain text files. You can find a great intro to git on (opensource.com)[https://opensource.com/article/18/1/step-step-guide-git]. You can use it locally on your computer or in connection with a cloud service. [Gitlab](https://about.gitlab.com/) and [Github](https://github.com/) are very popular options with free private repositories. 
 
 We can install git using the terminal
 
@@ -272,7 +272,7 @@ git config --global user.email first.last@email.com
 
 ## Zotero
 
-If you don't want to learn how to use emacs and use packages like org-ref and helm-bibtex to organize your bibliography I recommend that you check out (Zotero)[https://www.zotero.org/]. Everyone should have a literature and reference management system. It makes your life as a researcher so much easier - all your PDFs, annotations, and citations live in one place and integrating citations into LaTeX or markdown documents is easy and straightforward. 
+If you don't want to learn how to use emacs and use packages like org-ref and helm-bibtex to organize your bibliography I recommend that you check out [Zotero](https://www.zotero.org/). Everyone should have a literature and reference management system. It makes your life as a researcher so much easier - all your PDFs, annotations, and citations live in one place and integrating citations into LaTeX or markdown documents is easy and straightforward. 
 
 You can either download the Zotero installer from their website or use the following code to set it up:
 
@@ -300,7 +300,7 @@ Chromium is installed with this command `sudo apt install chromium-browser` and 
 
 ## Dropbox
 
-I remember that installing Dropbox was a pain some time ago. Not anymore! They have really straightforward instructions on their website. You can find them (here)[https://www.dropbox.com/install-linux]
+I remember that installing Dropbox was a pain some time ago. Not anymore! They have really straightforward instructions on their website. You can find them [here](https://www.dropbox.com/install-linux).
 
 ## Skype
 
@@ -325,7 +325,7 @@ Zoom lists all dependencies that are required on the webpage linked above. If yo
 
 ## Slack 
 
-Slack is available in Flatpack and Snap but AFAIK not in apt. If you want to install it via apt head over to the Slack website and download the most recent deb file (here)[https://slack.com/intl/en-in/downloads/linux]. They are pushing the .rpm file, you have to browse down for the .deb file. Below I added a `#` as a placeholder for the version number you'll download. Change that before you run the commands:
+Slack is available in Flatpack and Snap but AFAIK not in apt. If you want to install it via apt head over to the Slack website and download the most recent deb file [here](https://slack.com/intl/en-in/downloads/linux). They are pushing the .rpm file, you have to browse down for the .deb file. Below I added a `#` as a placeholder for the version number you'll download. Change that before you run the commands:
 
 
 ```
