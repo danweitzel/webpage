@@ -33,6 +33,9 @@ projects: []
 
 When I was a graduate student I immensely benefitted from a friend's guide to Linux for social scientists. Unfortunately, that post is not available anymore. This is an attempt at recreating the guide in the hope that it helps other social scientists who want to try out Linux-based operating systems. 
 
+In this guide I'll first talk a bit about early configurations of your Pop!_OS system and then dive into the social science config. We will install R, R Studio, Python, LaTeX, Pandoc, Git, and Zotero. 
+
+I also added a section at the end in which I explain how to install frequently used software for collaborations (Dropbox, Skype, Zoom, and Slack). 
 
 # The operating system
 
@@ -123,11 +126,11 @@ sudo snap install emacs --edge --classic
 
 ## R 
 
-Next up is installing `R`! There are two ways to do this. A fast way and the right way. The fast way is using Ubuntu's repositories to install `R`. However, the `R` version in the repositories might not be the most up to date one. With a couple extra steps we can make sure that we have the most recent version of `R` available. 
+Next up is installing R! There are two ways to do this. A fast way and the right way. The fast way is using Ubuntu's repositories to install R. However, the R version in the repositories might not be the most up to date one. With a couple extra steps we can make sure that we have the most recent version of R available. 
 
 
 ### The fast way
-If you don't care about the most recent version and just want a fast and easy way to install `R` you can do so in two steps. First, we update the indices (It is recommended that you do this before any installation). Second, we install `R`. Just like this: 
+If you don't care about the most recent version and just want a fast and easy way to install R you can do so in two steps. First, we update the indices (It is recommended that you do this before any installation). Second, we install R. Just like this: 
 
 ```
 sudo apt update 
@@ -141,7 +144,7 @@ I added `r-base-dev` so you can compile the source code of packages you want to 
 
 ### The better way
 
-If you care about having the most recent version of `R` follow these steps. 
+If you care about having the most recent version of R follow these steps. 
 
 As before, we first want to update our indices:
 
@@ -160,13 +163,13 @@ Next up, we add the signing key for the repositories:
 wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
 ```
 
-and finally we add the `R` 4.0 repository. 
+and finally we add the R 4.0 repository. 
 
 ```
 sudo add-apt-repository "deb https://cloud.r-project.org/bin/linux/ubuntu $(lsb_release -cs)-cran40/"
 ```
 
-Now you can finally install `R`:
+Now you can finally install R:
 
 ```
 sudo apt install r-base r-base-dev
@@ -174,7 +177,7 @@ sudo apt install r-base r-base-dev
 
 ### Installing R packages
 
-You can install `R` packages from within R using the `install.packages()` command or you can use your terminal to do that. 
+You can install R packages from within R using the `install.packages()` command or you can use your terminal to do that. 
 
 Just add the current CRAN repository:
 
@@ -188,7 +191,7 @@ and install packages like the `tidyverse` like this:
 apt install r-cran-tidyverse
 ```
 
-If you just ran this code without reading ahead you might have run into an error. This is due to the fact that some packages (like the `tidyverse`) require non-R packages. While `R` is great at resolving dependencies on other `R` packages it can't help you with dependencies on non-`R` packages. In order to get the tidyverse up and going you need to install `libcurl4-openssl-dev`,  `libssl-dev`, and `libxml2-dev`. 
+If you just ran this code without reading ahead you might have run into an error. This is due to the fact that some packages (like the `tidyverse`) require non-R packages. While R is great at resolving dependencies on other R packages it can't help you with dependencies on non-R packages. In order to get the tidyverse up and going you need to install `libcurl4-openssl-dev`,  `libssl-dev`, and `libxml2-dev`. 
 
 ```
 sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev
