@@ -241,7 +241,7 @@ Below is the code to install either of these options:
 ```
 sudo apt install texlive-latex-extra
 
-or
+# or
 
 sudo apt install texlive-full 
 ```
@@ -308,9 +308,7 @@ You can either download the Zotero installer from their website or use the follo
 
 ```
 curl -sL https://raw.githubusercontent.com/retorquere/zotero-deb/master/install.sh | sudo bash
-
 sudo apt update
-
 sudo apt install zotero
 ```
 
@@ -342,7 +340,6 @@ Skype is not as popular as it once was but some people still use it. You can ins
 
 ```
 wget https://go.skype.com/skypeforlinux-64.deb
-
 sudo apt install ./skypeforlinux-64.deb
 ```
 
