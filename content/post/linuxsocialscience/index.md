@@ -35,7 +35,7 @@ When I was a graduate student I immensely benefitted from a friend's guide to Li
 
 In this guide I'll first talk a bit about early configurations of your Pop!_OS system and then dive into the social science config. We will install R, R Studio, Python, LaTeX, Pandoc, Git, and Zotero. 
 
-I also added a section at the end in which I explain how to install frequently used software for collaborations (Dropbox, Skype, Zoom, and Slack). 
+I also added a section at the end in which I explain how to install frequently used software for collaborations (Libre Office, Dropbox, Skype, Zoom, Signal, and Slack). 
 
 # The operating system
 
@@ -321,6 +321,14 @@ If you want to install Zotero via Snap just run `sudo snap install zotero-snap`.
 # Other Software
 
 There is other software that I frequently (have to) use in order to collaborate with other people. Below I explain how you can install those quickly.
+
+## Libre Office
+
+Even though we can write in LaTeX and markdown and convert documents using pandoc there is probably no way around a WYSIWYG editor. A lot of people work with Word or Excel and we need to be able to open these files. I prefer to use Libre Office for this and it is available in the Ubuntu repositories:
+
+```
+sudo apt install libreoffice-gnome libreoffice
+```
 
 ## Firefox
 
