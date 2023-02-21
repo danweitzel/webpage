@@ -255,7 +255,7 @@ pandoc manuscript.tex --bibliography=library.bib -o manuscript.docx
 
 ## Git 
 
-Git is software used for version control. It does an amazing job tracking changes in plain text files. You can find a great intro to git on (opensource.com)[https://opensource.com/article/18/1/step-step-guide-git]. You can use it locally on your computer or in connection with a cloud service. [Gitlab](https://about.gitlab.com/) and [Github](https://github.com/) are very popular options with free private repositories. 
+Git is software used for version control. It does an amazing job tracking changes in plain text files. You can find a great intro to git on [opensource.com](https://opensource.com/article/18/1/step-step-guide-git). You can use it locally on your computer or in connection with a cloud service. [Gitlab](https://about.gitlab.com/) and [Github](https://github.com/) are very popular options with free private repositories. 
 
 We can install git using the terminal
 
@@ -314,7 +314,7 @@ sudo apt install ./skypeforlinux-64.deb
 
 ## Zoom
 
-Installing Zoom should also not be hard. You need to get the most recent deb installer file from the (Zoom website)[https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux] and then install it 
+Installing Zoom should also not be hard. You need to get the most recent deb installer file from the [Zoom website](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux) and then install it 
 
 ```
 sudo apt install ./zoom_amd64.deb
