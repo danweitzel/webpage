@@ -83,6 +83,16 @@ For some installations you might need curl (certainly for one of the installatio
 sudo apt install curl 
 ```
 
+## Snap and Flatpak
+
+I use apt a lot but sometimes software is only available in Snap or Flatpak. So, we need to install those as well. 
+
+```
+sudo apt install snapd
+sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
+```
+
+Using Snap and Flatpak can be more convenient sometimes. 
 
 # The software 
 
@@ -90,6 +100,25 @@ This guide assumes that you conduct quantitative social science research in R or
 
 ## Emacs 
 
+I use emacs for my writing, code, version control, calendar, todo, emails, and even as window manager. It's an extremely capable editor but certainly has a steep learning curve. I'll write more about how to customize it for social science use at a later point. At the moment, I can highly recommend the System Crafters guides on YouTube. 
+
+If you want to give emacs a try you can install it using apt:
+
+```
+sudo apt insall emacs
+```
+
+This usually is an older version of emacs. You can also install emacs via Snap.
+
+```
+sudo snap install emacs --classic
+```
+
+Snap has the option of installing the most recent version of emacs. 
+
+```
+sudo snap install emacs --edge --classic
+```
 
 
 ## R 
@@ -126,7 +155,7 @@ Afterwards we install `software-properties-common` and `dirmngr` to assist with 
 sudo apt install --no-install-recommends software-properties-common dirmngr
 ```
 
-Next up, we add the signing key for the repositories
+Next up, we add the signing key for the repositories:
 ```
 wget -qO- https://cloud.r-project.org/bin/linux/ubuntu/marutter_pubkey.asc | sudo tee -a /etc/apt/trusted.gpg.d/cran_ubuntu_key.asc
 ```
@@ -197,12 +226,10 @@ sudo add-apt-repository ppa:deadsnakes/ppa
 sudo apt install python3.11
 ```
 
-If you want to use Anaconda the installation guide is on their website. You can find it [here](https://docs.anaconda.com/anaconda/install/linux/)
+If you want to use Anaconda the installation guide is on their website. You can find it [here](https://docs.anaconda.com/anaconda/install/linux/).
 
 
 ## LaTeX
-
-In order to write beautiful documents in LaTeX we need to in
 
 We obviously want to write beautiful documents in LaTeX. In order to be able to do that we need to install the program first. Here things get a bit tricky. We want to install TeXLive but there are different options that vary in the included packages and accordingly also in their size. `texlive-base` is a mere 160MB, while `texlive-full` is almost 6GB. If you have plenty of hard drive space I recommend you install `texlive-full`. Installing the full version minimizes the risk of ever running into a problem. If space is limited I recommend you go for `texlive-latex-extra` with 464MB.
 
@@ -225,13 +252,13 @@ sudo apt update
 sudo apt install texstud
 ```
 
-If you want to use Sublime Text you can find a good guide [here](https://tspeckhofer.github.io/2021/07/17/latex-and-sublime-text.html)
+If you want to use Sublime Text you can find a good guide [here](https://tspeckhofer.github.io/2021/07/17/latex-and-sublime-text.html).
 
 ## Pandoc
 
 Pandoc is an amazing piece of software that will allow us to convert our plain text markdown or LaTeX files into various different file formats. Even Word documents! 
 
-There are again two ways to install this software. We can use the version in the Ubuntu repositories or a more recent version from the developer. Everything I use `pandoc` for works with the older version in the Ubuntu repositories. Hence, I just go with that. However, if you want to have the newest version check out the installation instructions [here](https://github.com/jgm/pandoc/blob/main/INSTALL.md)
+There are again two ways to install this software. We can use the version in the Ubuntu repositories or a more recent version from the developer. Everything I use `pandoc` for works with the older version in the Ubuntu repositories. Hence, I just go with that. However, if you want to have the newest version check out the installation instructions [here](https://github.com/jgm/pandoc/blob/main/INSTALL.md).
 
 If you are okay with an older version go ahead and install it with the following command. 
 
@@ -241,7 +268,7 @@ sudo apt-get install pandoc
 
 If you want to (let's be honest: have to) convert a LaTeX document to a Word document (`.docx`) you can do it in one easy step.
 
-If you don't have any citations in your document you can just convert the `.tex` file to a `.docx` file
+If you don't have any citations in your document you can just convert the `.tex` file to a `.docx` file:
 
 ```
 pandoc manuscript.tex -o manuscript.docx
@@ -257,7 +284,7 @@ pandoc manuscript.tex --bibliography=library.bib -o manuscript.docx
 
 Git is software used for version control. It does an amazing job tracking changes in plain text files. You can find a great intro to git on [opensource.com](https://opensource.com/article/18/1/step-step-guide-git). You can use it locally on your computer or in connection with a cloud service. [Gitlab](https://about.gitlab.com/) and [Github](https://github.com/) are very popular options with free private repositories. 
 
-We can install git using the terminal
+We can install git using the terminal:
 
 ```
 sudo apt install git
@@ -286,13 +313,17 @@ sudo apt install zotero
 
 Now Zotero should be installed and you can go ahead and add your PDFs to it. 
 
+If you want to install Zotero via Snap just run `sudo snap install zotero-snap`.
+
+
+
 # Other Software
 
 There is other software that I frequently (have to) use in order to collaborate with other people. Below I explain how you can install those quickly.
 
 ## Firefox
 
-Install Firefox with `sudo apt install firefox`
+Install Firefox with `sudo apt install firefox`.
 
 Note: if you frequently use Google Meets you might want to consider to also install Google Chrome or Chromium. The full set of features of Google Meet is not available in other browsers. 
 
@@ -304,7 +335,7 @@ I remember that installing Dropbox was a pain some time ago. Not anymore! They h
 
 ## Skype
 
-Skype is not as popular as it once was but some people still use it. You can install Skype with Flatpack or Snap. If you want to use snap just download it from the Skype website and install it:
+Skype is not as popular as it once was but some people still use it. You can install Skype with Flatpak or Snap. If you want to use apt just download it from the Skype website and install it:
 
 ```
 wget https://go.skype.com/skypeforlinux-64.deb
@@ -312,9 +343,11 @@ wget https://go.skype.com/skypeforlinux-64.deb
 sudo apt install ./skypeforlinux-64.deb
 ```
 
+If you want to install Skype via Snap just run `sudo snap install skype`.
+
 ## Zoom
 
-Installing Zoom should also not be hard. You need to get the most recent deb installer file from the [Zoom website](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux) and then install it 
+Installing Zoom should also not be hard. You need to get the most recent deb installer file from the [Zoom website](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux) and then install it:
 
 ```
 sudo apt install ./zoom_amd64.deb
@@ -322,16 +355,19 @@ sudo apt install ./zoom_amd64.deb
 
 Zoom lists all dependencies that are required on the webpage linked above. If you run into any problems make sure that these are installed. 
 
+If you want to install Zoom via Snap just run `sudo snap install zoom-client`.
 
 ## Slack 
 
-Slack is available in Flatpack and Snap but AFAIK not in apt. If you want to install it via apt head over to the Slack website and download the most recent deb file [here](https://slack.com/intl/en-in/downloads/linux). They are pushing the .rpm file, you have to browse down for the .deb file. Below I added a `#` as a placeholder for the version number you'll download. Change that before you run the commands:
+Slack is available in Flatpak and Snap but AFAIK not in apt. If you want to install it via apt head over to the Slack website and download the most recent deb file [here](https://slack.com/intl/en-in/downloads/linux). They are pushing the .rpm file, you have to browse down for the .deb file. Below I added a `#` as a placeholder for the version number you'll download. Change that before you run the commands:
 
 
 ```
 sudo chmod +x slack-desktop-#.##.#-amd64.deb
 sudo apt install ./slack-desktop-#.##.#-amd64.deb
 ```
+
+If you want to install Slack via Snap just run `sudo snap install slack --classic`.
 
 ## MS Teams
 
