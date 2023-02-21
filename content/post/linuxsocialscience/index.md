@@ -103,7 +103,7 @@ This guide assumes that you conduct quantitative social science research in R or
 
 ## Emacs 
 
-I use emacs for my writing, code, version control, calendar, todo, emails, and even as window manager. It's an extremely capable editor but certainly has a steep learning curve. I'll write more about how to customize it for social science use at a later point. At the moment, I can highly recommend the System Crafters guides on YouTube. 
+I use emacs for my writing, code, version control, calendar, todo, emails, and even as window manager. It's an extremely capable editor but certainly has a steep learning curve. I'll write more about how to customize it for social science use at a later point. At the moment, I can highly recommend the System Crafters guides on [YouTube](https://www.youtube.com/@SystemCrafters/videos). 
 
 If you want to give emacs a try you can install it using apt:
 
