@@ -108,7 +108,7 @@ I use emacs for my writing, code, version control, calendar, todo, emails, and e
 If you want to give emacs a try you can install it using apt:
 
 ```
-sudo apt insall emacs
+sudo apt install emacs
 ```
 
 This usually is an older version of emacs. You can also install emacs via Snap.
