@@ -69,7 +69,7 @@ It's annoying but you'll like need proprietary media codecs and fonts that don't
 sudo apt install ubuntu-restricted-extras
 ```
 
-Pop!_OS uses Gnome, so we want to install Gnome Tweaks:
+Pop!_OS uses Gnome, so we want to install Gnome Tweaks. It allows us to customize our desktop rather easily. You can read more about it [here](https://itsfoss.com/gnome-tweak-tool/) and install it this way:
 
 ```
 sudo apt install gnome-tweaks
@@ -95,7 +95,7 @@ sudo apt install snapd
 sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
 ```
 
-Using Snap and Flatpak can be more convenient sometimes. 
+Using Snap and Flatpak can be more convenient sometimes. I am not going to dive into the pros and cons of snap, flatpak, and apt in this post. If you want to read more you can do so [here](https://www.fosslinux.com/42410/snap-vs-flatpak-vs-appimage-know-the-differences-which-is-better.htm).
 
 # The software 
 
