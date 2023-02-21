@@ -372,6 +372,10 @@ sudo apt install ./slack-desktop-#.##.#-amd64.deb
 
 If you want to install Slack via Snap just run `sudo snap install slack --classic`.
 
+## Signal
+
+I also use Signal a lot for quick communication about projects. Installing it via Snap is once more a one liner: sudo `snap install signal-desktop`.
+
 ## MS Teams
 
 Lol, no. 
