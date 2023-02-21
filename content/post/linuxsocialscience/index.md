@@ -247,7 +247,7 @@ sudo apt install texlive-full
 ```
 
 
-Once you have installed LaTeX you also need an editor to write your documents in. Personally, I use emacs for this purpose. While emacs is great and has enormous customizability it also comes with somewhat of a learning curve. If you just want a LaTeX editor to be able to start writing I recommend [TeXstudio](https://www.texstudio.org/). 
+Once you have installed LaTeX you also need an editor to write your documents in. Personally, I use emacs for this purpose. While emacs is great and has enormous customizability it also comes with somewhat of a learning curve. A quick intro to emacs and LaTeX is available [here](https://kevinlanguasco.wordpress.com/2019/04/29/latex-editing-with-emacs-on-manjaro/). Be aware, the author of the post uses Arch and the installation guide for emacs will not work if you have a Debian-based OS installed. If you just want a LaTeX editor to be able to start writing I recommend [TeXstudio](https://www.texstudio.org/). 
 
 ```
 sudo add-apt-repository ppa:sunderme/texstudio
