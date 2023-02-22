@@ -78,37 +78,33 @@ I also added a section at the end in which I explain how to install frequently u
 
   
 
-# Table of contents 
+## Table of contents 
 
   
 
-## The OS 
+### The OS 
 
    1. [Terminal](#terminal) 
    2. [Early configs](#early) 
    3. [Snap and Flatpak](#sf) 
 
-  
+### Social Science Software    
+   1. [Emacs](#emacs) 
+   2. [R](#r) 
+   3. [Python](#python) 
+   4. [LaTeX](#latex) 
+   5. [Pandoc](#pandoc) 
+   6. [Git](#git) 
+   7. [Zotero](#zotero) 
 
-## Social Science Software    
-    1. [Emacs](#emacs) 
-    2. [R](#r) 
-    3. [Python](#python) 
-    4. [LaTeX](#latex) 
-    5. [Pandoc](#pandoc) 
-    6. [Git](#git) 
-    7. [Zotero](#zotero) 
-
-  
-
-## Other software 
-    1. [Libre Office](#libre) 
-    2. [Firefox](#firefox) 
-    3. [Dropbox](#dropbox) 
-    4. [Skype](#skype) 
-    5. [Zoom](#zoom) 
-    6. [Slack](#slack) 
-    7. [Signal](#signal) 
+### Other software 
+   1. [Libre Office](#libre) 
+   2. [Firefox](#firefox) 
+   3. [Dropbox](#dropbox) 
+   4. [Skype](#skype) 
+   5. [Zoom](#zoom) 
+   6. [Slack](#slack) 
+   7. [Signal](#signal) 
 
 <a name="os"></a>  
 # The operating system 
