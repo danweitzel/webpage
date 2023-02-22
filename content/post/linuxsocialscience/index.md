@@ -37,15 +37,44 @@ In this guide I'll first talk a bit about early configurations of your Pop!_OS s
 
 I also added a section at the end in which I explain how to install frequently used software for collaborations (Libre Office, Dropbox, Skype, Zoom, Signal, and Slack). 
 
-# The operating system
 
-This guide is focused on Ubuntu, or Ubuntu-based operating systems. You can check out Ubuntu [here](https://ubuntu.com/download/desktop). Personally, I am currently running the Ubuntu-based [Pop!_OS](https://pop.system76.com/). The instructions in the blog post apply to both operating systems (you shouldn't run into problems with any other Debian-based system as well). 
+# Table of contents
 
-## Using the terminal
+## The OS
+1. [Terminal] <a name="terminal"></a><
+2. [Early configs] <a name="early"></a>
+3. [Snap and Flatpak] <a name="sf"></a>
+
+## Social Science Software   
+1. [Emacs] <a name="emacs"></a>
+2. [R] <a name="r"></a>
+3. [Python] <a name="python"></a>
+4. [LaTeX] <a name="latex"></a>
+5. [Pandoc] <a name="pandoc"></a>
+6. [Git] <a name="git"></a>
+7. [Zotero] <a name="zotero"></a>
+
+## Other software
+1. [Some paragraph] <a name="other_software"></a>
+2. [Libre Office] <a name="libre"></a>
+3. [Firefox] <a name="firefox"></a>
+4. [Dropbox] <a name="dropbox"></a>
+5. [Skype] <a name="skype"></a>
+6. [Zoom] <a name="zoom"></a>
+7. [Slack] <a name="slack"></a>
+8. [Signal] <a name="signal"></a>
+
+
+
+# The operating system  <a name="os"></a>
+
+This guide is focused on Ubuntu, or Ubuntu-based operating systems. You can check out Ubuntu [here](https://ubuntu.com/download/desktop). Personally, I am currently running the Ubuntu-based [Pop!_OS](https://pop.system76.com/). The instructions in the blog post apply to both operating systems (you shouldn't run into problems with any other Debian-based system either). 
+
+## Using the terminal <a name="terminal"></a>
 
 We'll use the terminal a lot in this guide. You can open it with `Super + t` on Pop!_OS and `Alt+Shift+t` on Ubuntu. If you have never used the terminal before I recommend you check out this guide by Canonical [here](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview).
 
-## Early configs 
+## Early configs  <a name="early"></a>
 
 
 First things first: update and upgrade your system and the recovery partition!
@@ -63,7 +92,7 @@ sudo system76-power graphics hybrid
 
 If you are using a laptop you might also want to check out `caffeine` to prevent your laptop from hibernating: `sudo apt install caffeine`.
 
-It's annoying but you'll like need proprietary media codecs and fonts that don't ship by default. `ubuntu-restricted-extras` to the rescue:
+It's annoying but you'll likely need proprietary media codecs and fonts that don't ship by default. `ubuntu-restricted-extras` to the rescue:
 
 ```
 sudo apt install ubuntu-restricted-extras
@@ -86,7 +115,7 @@ For some installations you might need curl (certainly for one of the installatio
 sudo apt install curl 
 ```
 
-## Snap and Flatpak
+## Snap and Flatpak <a name="sf"></a>
 
 I use apt a lot but sometimes software is only available in Snap or Flatpak. So, we need to install those as well. 
 
@@ -97,11 +126,11 @@ sudo apt install flatpak gnome-software-plugin-flatpak gnome-software
 
 Using Snap and Flatpak can be more convenient sometimes. I am not going to dive into the pros and cons of snap, flatpak, and apt in this post. If you want to read more you can do so [here](https://www.fosslinux.com/42410/snap-vs-flatpak-vs-appimage-know-the-differences-which-is-better.htm).
 
-# The software 
+# Social Science Software 
 
 This guide assumes that you conduct quantitative social science research in R or Python and write documents using markdown or LaTeX.
 
-## Emacs 
+## Emacs  <a name="emacs"></a>
 
 I use emacs for my writing, code, version control, calendar, todo, emails, and even as window manager. It's an extremely capable editor but certainly has a steep learning curve. I'll write more about how to customize it for social science use at a later point. At the moment, I can highly recommend the System Crafters guides on [YouTube](https://www.youtube.com/@SystemCrafters/videos). 
 
@@ -124,7 +153,7 @@ sudo snap install emacs --edge --classic
 ```
 
 
-## R 
+## R  <a name="r"></a>
 
 Next up is installing R! There are two ways to do this. A fast way and the right way. The fast way is using Ubuntu's repositories to install R. However, the R version in the repositories might not be the most up to date one. With a couple extra steps we can make sure that we have the most recent version of R available. 
 
@@ -209,7 +238,7 @@ lsb_release -a
 ```
 
 
-## Python 
+## Python  <a name="python"></a>
 
 If you are working in `Python` and want to set it up on your Linux machine an installation is pretty straightforward. Debian-based Linux versions ship with `Python3` by default. The version in the repositories is most likely not the most recent one though. If you are okay with that you can just add pip, some developer tools, and a virtual environment manager to your installation:
 
@@ -232,7 +261,7 @@ sudo apt install python3.11
 If you want to use Anaconda the installation guide is on their website. You can find it [here](https://docs.anaconda.com/anaconda/install/linux/).
 
 
-## LaTeX
+## LaTeX  <a name="latex"></a>
 
 We obviously want to write beautiful documents in LaTeX. In order to be able to do that we need to install the program first. Here things get a bit tricky. We want to install TeXLive but there are different options that vary in the included packages and accordingly also in their size. `texlive-base` is a mere 160MB, while `texlive-full` is almost 6GB. If you have plenty of hard drive space I recommend you install `texlive-full`. Installing the full version minimizes the risk of ever running into a problem. If space is limited I recommend you go for `texlive-latex-extra` with 464MB.
 
@@ -257,7 +286,7 @@ sudo apt install texstud
 
 If you want to use Sublime Text you can find a good guide [here](https://tspeckhofer.github.io/2021/07/17/latex-and-sublime-text.html).
 
-## Pandoc
+## Pandoc  <a name="pandoc"></a>
 
 Pandoc is an amazing piece of software that will allow us to convert our plain text markdown or LaTeX files into various different file formats. Even Word documents! 
 
@@ -283,7 +312,7 @@ However, if you have citations in your document you must add the library file fo
 pandoc manuscript.tex --bibliography=library.bib -o manuscript.docx
 ```
 
-## Git 
+## Git  <a name="git"></a>
 
 Git is software used for version control. It does an amazing job tracking changes in plain text files. You can find a great intro to git on [opensource.com](https://opensource.com/article/18/1/step-step-guide-git). You can use it locally on your computer or in connection with a cloud service. [Gitlab](https://about.gitlab.com/) and [Github](https://github.com/) are very popular options with free private repositories. 
 
@@ -300,7 +329,7 @@ git config --global user.name "Firstname Lastname"
 git config --global user.email first.last@email.com
 ```
 
-## Zotero
+## Zotero  <a name="zotero"></a>
 
 If you don't want to learn how to use emacs and use packages like org-ref and helm-bibtex to organize your bibliography I recommend that you check out [Zotero](https://www.zotero.org/). Everyone should have a literature and reference management system. It makes your life as a researcher so much easier - all your PDFs, annotations, and citations live in one place and integrating citations into LaTeX or markdown documents is easy and straightforward. 
 
@@ -318,11 +347,11 @@ If you want to install Zotero via Snap just run `sudo snap install zotero-snap`.
 
 
 
-# Other Software
+# Other Software  <a name="other_software"></a>
 
 There is other software that I frequently (have to) use in order to collaborate with other people. Below I explain how you can install those quickly.
 
-## Libre Office
+## Libre Office  <a name="libre"></a>
 
 Even though we can write in LaTeX and markdown and convert documents using pandoc there is probably no way around a WYSIWYG editor. A lot of people work with Word or Excel and we need to be able to open these files. I prefer to use Libre Office for this and it is available in the Ubuntu repositories:
 
@@ -330,7 +359,7 @@ Even though we can write in LaTeX and markdown and convert documents using pando
 sudo apt install libreoffice-gnome libreoffice
 ```
 
-## Firefox
+## Firefox  <a name="firefox"></a>
 
 Install Firefox with `sudo apt install firefox`.
 
@@ -338,11 +367,11 @@ Note: if you frequently use Google Meets you might want to consider to also inst
 
 Chromium is installed with this command `sudo apt install chromium-browser` and Chrome with this one `sudo apt install google-chrome-stable`.
 
-## Dropbox
+## Dropbox  <a name="dropbox"></a>
 
 I remember that installing Dropbox was a pain some time ago. Not anymore! They have really straightforward instructions on their website. You can find them [here](https://www.dropbox.com/install-linux).
 
-## Skype
+## Skype  <a name="skype"></a>
 
 Skype is not as popular as it once was but some people still use it. You can install Skype with Flatpak or Snap. If you want to use apt just download it from the Skype website and install it:
 
@@ -353,7 +382,7 @@ sudo apt install ./skypeforlinux-64.deb
 
 If you want to install Skype via Snap just run `sudo snap install skype`.
 
-## Zoom
+## Zoom  <a name="zoom"></a>
 
 Installing Zoom should also not be hard. You need to get the most recent deb installer file from the [Zoom website](https://support.zoom.us/hc/en-us/articles/204206269-Installing-or-updating-Zoom-on-Linux) and then install it:
 
@@ -365,7 +394,7 @@ Zoom lists all dependencies that are required on the webpage linked above. If yo
 
 If you want to install Zoom via Snap just run `sudo snap install zoom-client`.
 
-## Slack 
+## Slack  <a name="slack"></a>
 
 Slack is available in Flatpak and Snap but AFAIK not in apt. If you want to install it via apt head over to the Slack website and download the most recent deb file [here](https://slack.com/intl/en-in/downloads/linux). They are pushing the .rpm file, you have to browse down for the .deb file. Below I added a `#` as a placeholder for the version number you'll download. Change that before you run the commands:
 
@@ -377,7 +406,7 @@ sudo apt install ./slack-desktop-#.##.#-amd64.deb
 
 If you want to install Slack via Snap just run `sudo snap install slack --classic`.
 
-## Signal
+## Signal  <a name="signal"></a>
 
 I also use Signal a lot for quick communication about projects. Installing it via Snap is once more a one liner: `sudo snap install signal-desktop`.
 
