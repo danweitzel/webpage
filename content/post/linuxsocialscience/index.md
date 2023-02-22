@@ -84,14 +84,13 @@ I also added a section at the end in which I explain how to install frequently u
 
 ## The OS 
 
-    1. [Terminal](#terminal) 
-    2. [Early configs](#early) 
-    3. [Snap and Flatpak](#sf) 
+   1. [Terminal](#terminal) 
+   2. [Early configs](#early) 
+   3. [Snap and Flatpak](#sf) 
 
   
 
 ## Social Science Software    
-
     1. [Emacs](#emacs) 
     2. [R](#r) 
     3. [Python](#python) 
@@ -103,7 +102,6 @@ I also added a section at the end in which I explain how to install frequently u
   
 
 ## Other software 
-
     1. [Libre Office](#libre) 
     2. [Firefox](#firefox) 
     3. [Dropbox](#dropbox) 
