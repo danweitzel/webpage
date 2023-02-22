@@ -88,7 +88,7 @@ I also added a section at the end in which I explain how to install frequently u
    2. [Early configs](#early) 
    3. [Snap and Flatpak](#sf) 
 
-### Social Science Software    
+### Social Science Software
    1. [Emacs](#emacs) 
    2. [R](#r) 
    3. [Python](#python) 
@@ -106,15 +106,18 @@ I also added a section at the end in which I explain how to install frequently u
    6. [Slack](#slack) 
    7. [Signal](#signal) 
 
-<a name="os"></a>  
+
+
 # The operating system 
 
 This guide is focused on Ubuntu, or Ubuntu-based operating systems. You can check out Ubuntu [here](https://ubuntu.com/download/desktop). Personally, I am currently running the Ubuntu-based [Pop!_OS](https://pop.system76.com/). The instructions in the blog post apply to both operating systems (you should not run into problems with any other Debian-based system either). 
+
 
 <a name="terminal"></a> 
 ## Using the terminal
 
 We will use the terminal a lot in this guide. You can open it with `Super + t` on Pop!_OS and `Alt+Shift+t` on Ubuntu. If you have never used the terminal before I recommend you check out this guide by Canonical [here](https://ubuntu.com/tutorials/command-line-for-beginners#1-overview). 
+
 
 <a name="early"></a> 
 ## Early configs 
