@@ -256,7 +256,7 @@ sudo apt install r-base r-base-dev
 
 ### Installing R packages
 
-You can install R packages from within R using the `install.packages()` command or you can use your terminal to do that (that's the recommended way!). 
+You can install R packages from within R using the `install.packages()` command or you can use your terminal to do that (that's the recommended way!). Just a heads up, the approach described here is only working for LTS releases.
 
 Just add the current CRAN repository: 
 
@@ -264,7 +264,7 @@ Just add the current CRAN repository:
 sudo add-apt-repository ppa:c2d4u.team/c2d4u4.0+ 
 ``` 
 
-and install packages like the `tidyverse` like this:
+You'll now be able to installl all packages listed in the CRAN Task Views listed [here](https://cran.r-project.org/web/views/). As an example, you can install packages like the `tidyverse` like this:
 
 ``` 
 apt install r-cran-tidyverse 
