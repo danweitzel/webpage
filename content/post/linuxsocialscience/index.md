@@ -256,7 +256,7 @@ sudo apt install r-base r-base-dev
 
 ### Installing R packages
 
-You can install R packages from within R using the `install.packages()` command or you can use your terminal to do that (that's the recommended way!). Just a heads up, the approach described here is only working for LTS releases.
+You can install R packages from within R using the `install.packages()` command. In this case I recommend that you use the Posit/R Studio public package manager available [here](https://packagemanager.rstudio.com/client/#/). You can alternatively use your terminal to do that (that's the recommended way!). Just a heads up, the approach described here is only working for LTS releases.
 
 Just add the current CRAN repository: 
 
@@ -275,6 +275,11 @@ If you just ran this code without reading ahead, you might have run into an erro
 ``` 
 sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev 
 ``` 
+
+Additional packages that might be useful for you are `r-cran-dblyr` (a backend for databases) `r-cran-tidymodels` (tidy ML), `r-cran-naniar` and `r-cran-mice` (for missing data), `r-cran-quanteda`, `r-cran-tesseract`, `r-cran-tidytext` (for NLP. text analysis), `r-cran-modelsummary` and `r-cran-sjplot` (for model stats/visualizations), `r-cran-data.table` (as a tidyverse alternative). 
+
+
+This section plus some addtional information is also available in [another post](https://www.danweitzel.net/post/installr/) on this website.
 
 ### Installing R Studio
 

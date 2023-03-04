@@ -107,9 +107,9 @@ Now you can finally install R:
 sudo apt install r-base r-base-dev 
 ``` 
 
-### Installing R packages
+## Installing R packages
 
-You can install R packages from within R using the `install.packages()` command or you can use your terminal to do that (that's the recommended way!). Just a heads up, the approach described here is only working for LTS releases.
+You can install R packages from within R using the `install.packages()` command. In this case I recommend that you use the Posit/R Studio public package manager available [here](https://packagemanager.rstudio.com/client/#/). You can alternatively use your terminal to do that (that's the recommended way!). Just a heads up, the approach described here is only working for LTS releases.
 
 Just add the current CRAN repository: 
 
@@ -117,7 +117,7 @@ Just add the current CRAN repository:
 sudo add-apt-repository ppa:c2d4u.team/c2d4u4.0+ 
 ``` 
 
-You'll now be able to installl all packages listed in the CRAN Task Views listed [here](https://cran.r-project.org/web/views/). As an example, you can install packages like the `tidyverse` like this:
+You'll now be able to install almost all packages listed in the CRAN Task Views listed [here](https://cran.r-project.org/web/views/). As an example, you can install packages like the `tidyverse` like this:
 
 ``` 
 sudo apt install r-cran-tidyverse 
@@ -129,9 +129,31 @@ If you just ran this code without reading ahead, you might have run into an erro
 sudo apt install libcurl4-openssl-dev libssl-dev libxml2-dev 
 ``` 
 
-Additional packages that might be useful for you are `r-cran-dblyr` (a backend for databases) `r-cran-tidymodels` (tidy ML), `r-cran-naniar` and `r-cran-mice` (for missing data), `r-cran-quanteda`, `r-cran-tesseract`, `r-cran-tidytext` (for NLP. text analysis), `r-cran-modelsummary` (for model stats), `r-cran-data.table` (as a tidyverse alternative). All available packages in the Ubuntu repository are listed [here](https://cran.r-project.org/web/views/).
+Additional packages that might be useful for you are `r-cran-dblyr` (a backend for databases) `r-cran-tidymodels` (tidy ML), `r-cran-naniar` and `r-cran-mice` (for missing data), `r-cran-quanteda`, `r-cran-tesseract`, `r-cran-tidytext` (for NLP. text analysis), `r-cran-modelsummary` and `r-cran-sjplot` (for model stats/visualizations), `r-cran-data.table` (as a tidyverse alternative). 
 
-### Installing R Studio
+## What packages are available?
+
+I mentioned earlier that almost all packages in the CRAN Task Views should be available in the Ubuntu repository. That is not 100% true. The overlap between available R packages on CRAN and the packages in the Ubuntu Repository is large but not perfect. For example, I was not able to install h2o through apt. 
+
+All available packages in the Ubuntu repository are listed [here](https://launchpad.net/~marutter/+archive/ubuntu/c2d4u).
+
+Most of the packages of the [CRAN Task Views](https://cran.r-project.org/web/views/) packages are in fact available. If you want to check those out you can do so on the website or using the `ctv` package. The data there is grouped into topics. Most social scientists are probably interested in the following topics: Bayesian, CausalInference, Databases, Econometrics, ExperimentalDesign, MachineLearning, MissingData, MixedModels, ModelDeployment, NaturalLanguageProcessing, and ReproducibleResearch.
+
+You can use the `ctv` package with the following code within R:
+
+``` 
+install.packages("ctv")
+
+# Listing all topics:
+ctv::available.views()
+
+# Listing all packages in a topic
+ctv::ctv("MachineLearning")
+``` 
+
+Easiest way to find out if a given package is available? Just run `r-cran-packagename` and see. 
+
+## Installing R Studio
 
 While we can install R Studio with the terminal, I'd have to regularly update the blog post to add the correct link. To make my life easier I recommend you just head to the Posit website and download [R Studio](https://posit.co/download/rstudio-desktop/). 
 
