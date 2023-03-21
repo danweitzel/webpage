@@ -76,3 +76,7 @@ caption = ""
 
 
 +++
+
+
+![Partisan Gaps in Knowledge](../../img/articles/partisan1.png)
+
