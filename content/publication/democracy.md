@@ -1,13 +1,13 @@
 
 
 +++
-title = "Democracy: Global, Historical Measures Based on Observables"
+title = "Electoral Democracy: Global, Historical Measures Based on Observables"
 
 # Page features
 share =  false
 
 # Date first published.
-date = "2022-07-29"
+date = "2023-03-220"
 
 # Authors. Comma separated list, e.g.
 authors = ["Daniel Weitzel", "John Gerring", "Dan Pemstein", "Svend-Erik Skaaning"]
@@ -47,7 +47,7 @@ projects = []
 
 # Links (optional).
 url_pdf = ""
-url_preprint = ""
+url_preprint = "drafts/democracy_wp.pdf"
 url_code = ""
 url_dataset = ""
 url_project = ""
