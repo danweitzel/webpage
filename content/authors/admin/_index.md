@@ -15,7 +15,7 @@ role: Assistant Professor
 # Organizations/Affiliations
 organizations:
 - name: Colorado State University
-  url: ""
+  url: "https://polisci.colostate.edu/"
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include party-voter interactions in elections and quantitative and computational methods.

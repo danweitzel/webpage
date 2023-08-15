@@ -46,3 +46,8 @@
     name = "CV"
     url = "files/Weitzel_CV.pdf"
     weight = 70
+    
+    [[main]]
+    name = "Office Hours"
+    url = "https://cal.com/weitzel"
+    weight = 80
