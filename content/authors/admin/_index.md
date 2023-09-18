@@ -24,9 +24,9 @@ interests:
 - Political Parties
 - Elections and Voting Behavior
 - Democracy
-- Bayesian Statistics
 - Natural Language Processing
 - Machine Learning
+- Survey Design and Methodology
 
 education:
   courses:
@@ -86,6 +86,6 @@ user_groups:
 
 Welcome to my website. I am an assistant professor in the [Department of Political Science](https://polisci.colostate.edu/) at Colorado State University and a Senior Research Fellow  in the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I received my Ph.D. in Government from the [Department of Government](https://liberalarts.utexas.edu/government/) at the University of Texas at Austin in 2020 and was a postdoctoral researcher in the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna between 2020-22.
 
-My research interests focus on comparative politics and quantitative and computational methods. I use text as data, Bayesian statistics, and machine learning to study the interaction of political parties and voters in democracies. In my dissertation I examine the determinants and consequences of negative campaigning in multi-party electoral competition in Europe. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media.
+My research interests focus on computational social science and the strategic behavior of political actors in elections. I use text as data and machine learning to study the interaction of political parties and voters in democracies. In my dissertation I examine the determinants and consequences of negative campaigning in electoral competition. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media.
 
 I have received an M.Sc. in Statistics from the [Department of Statistics and Data Science](https://stat.utexas.edu/) at the University of Texas at Austin. Before coming to UT Austin I received an M.Sc. in Political Behaviour from the [Department of Government](https://www.essex.ac.uk/departments/government) of the University of Essex/England and a B.A. and M.A. in Political Science and Sociology from the [Institute of Political Science](https://www.pol.phil.fau.eu/) at the Friedrich-Alexander University Erlangen-Nuremberg/Germany.
