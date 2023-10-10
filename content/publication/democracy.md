@@ -7,7 +7,7 @@ title = "Electoral Democracy: Global, Historical Measures Based on Observables"
 share =  false
 
 # Date first published.
-date = "2023-03-20"
+date = "2023-10-10"
 
 # Authors. Comma separated list, e.g.
 authors = ["Daniel Weitzel", "John Gerring", "Dan Pemstein", "Svend-Erik Skaaning"]
