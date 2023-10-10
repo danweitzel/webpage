@@ -12,7 +12,7 @@ date = "2023-03-20"
 # Authors. Comma separated list, e.g.
 authors = ["Daniel Weitzel", "John Gerring", "Dan Pemstein", "Svend-Erik Skaaning"]
 
-tags = ["working_paper"]
+tags = ["published"]
 
 # Publication type.
 # Legend:
@@ -26,8 +26,8 @@ tags = ["working_paper"]
 publication_types = ["3"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "American Journal of Political Science"
+publication_short = "AJPS"
 
 # Abstract and optional shortened version.
 abstract = "Most crossnational indices of democracy rely centrally on coder judgments, which are susceptible to personal bias and error, and also require expensive and time-consuming coding by experts. The few measures based exclusively on observable indicators are either dichotomous or rely on a few rather crude proxies. This project lays out an approach to measurement based on observables that aims to preserve the nuanced quality of subjectively coded democracy indices. First, we gather data for a wide range of observable indicators, X´, that capture different aspects of the democratic process. Next, we use supervised machine learning to predict Z using factual indicators, X´, creating an observable-to-subjective score mapping (OSM). The mapping that provides the best cross-validated fit to the outcome serves as an alternate index, Z´, for that conceptualization of democracy. Information loss from Z to Z´ is minimal for indices centered on an electoral conception of democracy and this loss may be advantageous for some purposes. It is free of idiosyncratic coder errors arising from misinformation, slack, or biases for or against a regime. It is also less susceptible to systematic bias that may arise from coders’ inferences about a country’s regime status, e.g., from the ideology of the current ruler. The data collection procedure and mode of analysis is fully transparent and replicable, and the procedure is cheap to produce, easy to update, and offers coverage for all polities with sovereign or semisovereign status, surpassing the sample of any existing index. We show that this expansive coverage makes a big difference to our understanding of some causal questions."
