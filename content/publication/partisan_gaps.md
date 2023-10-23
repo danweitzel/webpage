@@ -30,7 +30,7 @@ publication = ""
 publication_short = ""
 
 # Abstract and optional shortened version.
-abstract = "Research shows that partisan gaps in political knowledge are wide and widespread. Using a series of experiments, we investigate the extent to which partisan gaps are a result of differences in beliefs than motivated guessing, on-the-spot inferences, cheerleading, and other such processes. We manipulate common features of knowledge items in commercial surveys and find that they inflate the partisan gap in beliefs by 40%. The artificially large partisan gaps in commercial polls are partly a result of item features that cause people who don’t know to offer a substantive response. In all, we find that partisans know far less and the absolute magnitude of the partisan gap in beliefs is substantially smaller"
+abstract = "Research suggests that partisan gaps in political knowledge with partisan implications are wide and widespread. Using a series of experiments, we investigate the extent to which partisan gaps in commercial surveys are a result of differences in beliefs than motivated guessing. Knowledge items on commercial surveys often have features that encourage guessing. We find that removing such features yields scales with greater reliability and higher criterion validity. More substantively, partisan gaps on scales without these “inflationary” features are roughly 40% smaller. Thus, contrary to Prior, Sood and Khanna (2015), who find that the upward bias is explained by the knowledgeable deliberately marking the wrong answer (partisan cheerleading), our data suggest, in line with Bullock et al. (2015) and Graham and Yair (2023), that partisan gaps on commercial surveys are strongly upwardly biased by motivated guessing by the ignorant. Relatedly, we also find that partisans know less than what toplines of commercial polls suggest."
 
 # Featured image thumbnail (optional)
 #image_preview = "/articles/partisan1.png"
@@ -79,4 +79,3 @@ caption = ""
 
 
 ![Partisan Gaps in Knowledge](../../img/articles/partisan1.png)
-
