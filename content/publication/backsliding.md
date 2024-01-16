@@ -46,10 +46,10 @@ selected = true
 projects = []
 
 # Links (optional).
-url_pdf = ""
+url_pdf = "https://doi.org/10.1017/S1049096523001075"
 url_preprint = "files/drafts/Backsliding.pdf"
-url_code = ""
-url_dataset = ""
+url_code = "https://doi.org/10.7910/DVN/RE0FZS"
+url_dataset = "https://doi.org/10.7910/DVN/RE0FZS"
 url_project = ""
 url_slides = ""
 url_video = ""
