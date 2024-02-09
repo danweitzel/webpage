@@ -61,5 +61,7 @@ I recently hosted a workshop introducing students at Colorado State University t
 
 You can check out the code on [Github Gist](https://gist.github.com/danweitzel/bffe0c26b49e82cc7f9773696aae625c) or examine it below. Let me know if you have any questions or suggestions!
 
+You can learn more about the amazing work of the Straayer Center on their [website](https://polisci.colostate.edu/straayer-center-for-public-service-leadership/)!
+
 <script src="https://gist.github.com/danweitzel/bffe0c26b49e82cc7f9773696aae625c.js"></script>
   
