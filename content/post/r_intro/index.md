@@ -57,7 +57,7 @@ projects: []
 
 --- 
 
-I recently hosted a workshop introducing students at Colorado State University to R, the tidyverse, and the V-Dem data set. We had a two hour workshop in which we students got familiar with R Studio, learned the basic functionality of R and the tidyverse, and started examining democracy indicators. It was a fast-paced workshop aimed and giving students some familiarity with coding and sparking interest and maybe even excitement about learning more. 
+I recently hosted a workshop introducing students at Colorado State University to R, the tidyverse, and the V-Dem data set. We had a two hour workshop in which the students got familiar with R Studio, learned the basic functionality of R and the tidyverse, and started examining democracy indicators. It was a fast-paced workshop aimed and giving students some familiarity with coding and sparking interest and maybe even excitement about learning more. 
 
 You can check out the code on [Github Gist](https://gist.github.com/danweitzel/bffe0c26b49e82cc7f9773696aae625c) or examine it below. Let me know if you have any questions or suggestions!
 
