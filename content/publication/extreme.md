@@ -77,6 +77,5 @@ caption = ""
 
 +++
 
-![Evaluating performance in training and validation set](../../img/articles/democracy.png)
+![Recalled Politicians in Study 2](../../img/articles/extreme.png)
 
-![Examining patterns in the predictions](../../img/articles/democracy2.png)
