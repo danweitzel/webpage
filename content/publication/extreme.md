@@ -10,7 +10,7 @@ share =  false
 date = "2024-02-27"
 
 # Authors. Comma separated list, e.g.
-authors = ["Daniel Weitzel", "John Gerring", "Dan Pemstein", "Svend-Erik Skaaning"]
+authors = ["Daniel Weitzel", "Gaurav Sood"]
 
 tags = ["working_paper"]
 
