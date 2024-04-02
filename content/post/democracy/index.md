@@ -57,7 +57,7 @@ projects: []
 
 --- 
 
-I have a one hour presentation at the 5th annual international symposium at Colorado State University. The topic of my talk was a globala ssessment of democracy with a deep dive into the U.S. case. We examined global trends in democratization and democratic backsliding as well as trends in the U.S. 
+I gave a one hour presentation at the 5th annual international symposium at Colorado State University. The topic of my talk was a global assessment of democracy with a deep dive into the U.S. case. We examined global trends in democratization and democratic backsliding as well as trends in the U.S. 
 
 There was a special focus on media, Congress, parties, voters, and states. Below is code that replicates some of the figures I generated with publicly available data. 
 
