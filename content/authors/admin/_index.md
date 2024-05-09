@@ -84,6 +84,6 @@ user_groups:
 - Visitors
 ---
 
-Welcome to my website. I am an assistant professor in the [Department of Political Science](https://polisci.colostate.edu/) at Colorado State University and a Senior Research Fellow in the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I received my Ph.D. in Government from the [University of Texas at Austin](https://liberalarts.utexas.edu/government/) in 2020 and was a postdoctoral researcher at the University of Vienna between 2020-22.
+Welcome to my website. I am an assistant professor in the [Department of Political Science](https://polisci.colostate.edu/) and faculty affiliate at the [Data Science Research Institute](https://www.research.colostate.edu/dsri/affiliate-program/) at Colorado State University. I am also a Senior Research Fellow in the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I received my Ph.D. in Government from the [University of Texas at Austin](https://liberalarts.utexas.edu/government/) in 2020 and was a postdoctoral researcher at the University of Vienna between 2020-22.
 
 I use text as data and machine learning to study democracy, democratic backsliding, negative campaigning, and the strategic behavior of political actors in elections, particularly the interaction between political parties and voters in democracies. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media.
