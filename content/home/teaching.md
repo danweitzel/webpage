@@ -64,7 +64,7 @@ subtitle = ""
 +++
 
 ### Methodology
-[Research Methods for Political Science](/files/syllabus/sm_syllabus_2022.pdf)  (Colorado State, Graduate)
+[Research Methods for Political Science](/files/syllabus/sm_syllabus_2022.pdf)  (Colorado State, Graduate) ([Spring 2024](/files/evals/spring24_624.pdf))
 
 Research Methods for Political Science (University of Vienna, graduate) Evaluations: ([Spring 2022](/files/evals/spring22_m2.pdf))
 
@@ -75,6 +75,9 @@ Statistical Analysis in Political Science II (UT Austin, TA, graduate) Spring 20
 Statistical Analysis in Political Science I (UT Austin, TA, graduate) Fall 2018 ([evaluations](/files/evals/fall18_stats1.png), Teaching Assistant of the Year Award)
 
 ### Comparative Politics & Political Behavior
+
+Analysis of Democracy and Democratization  (Colorado State, Graduate) ([Spring 2024](/files/evals/spring24_492.pdf))
+
 [Political Psychology](/files/syllabus/syllabus_pol308_fall22.pdf)  (Colorado State, Undergraduate)
 
 Negative Campaigning in Electoral Politics (University of Vienna, graduate) Fall 2022  ([evaluations](/files/evals/spring22_m7.pdf))
