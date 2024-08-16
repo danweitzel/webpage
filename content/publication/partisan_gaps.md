@@ -12,7 +12,7 @@ date = "2023-10-21"
 # Authors. Comma separated list, e.g.
 authors = ["Lucas Shen", "Gaurav Sood", "Daniel Weitzel"]
 
-tags = ["working_paper"]
+tags = ["published"]
 
 # Publication type.
 # Legend:
@@ -23,11 +23,11 @@ tags = ["working_paper"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "Public Opinion Quarterly"
+publication_short = "POQ"
 
 # Abstract and optional shortened version.
 abstract = "Research suggests that partisan gaps in political knowledge with partisan implications are wide and widespread. Using a series of experiments, we investigate the extent to which partisan gaps in commercial surveys are a result of differences in beliefs than motivated guessing. Knowledge items on commercial surveys often have features that encourage guessing. We find that removing such features yields scales with greater reliability and higher criterion validity. More substantively, partisan gaps on scales without these “inflationary” features are roughly 40% smaller. Thus, contrary to Prior, Sood and Khanna (2015), who find that the upward bias is explained by the knowledgeable deliberately marking the wrong answer (partisan cheerleading), our data suggest, in line with Bullock et al. (2015) and Graham and Yair (2023), that partisan gaps on commercial surveys are strongly upwardly biased by motivated guessing by the ignorant. Relatedly, we also find that partisans know less than what toplines of commercial polls suggest."
