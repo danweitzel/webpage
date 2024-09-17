@@ -26,8 +26,8 @@ tags = ["published"]
 publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
-publication = ""
-publication_short = ""
+publication = "*Journal of Elections, Public Opinion and Parties*"
+publication_short = "*Journal of Elections, Public Opinion and Parties*"
 
 # Abstract and optional shortened version.
 abstract = "How do people understand parties? Using data from two original surveys fielded nearly a decade apart, we shed light on people’s mental images of the parties. In the surveys, we asked which politicians immediately come to mind when you think about Republicans (Democrats). People’s mental images of parties are a narrow gallery of few prominent national politicians. Nearly 40% of the people struggle to list three politicians. Further, 44% of the mentions are of the last three presidents. People are also likelier to list more extreme politicians. To shed light on the source of these biases, we analyze a decade’s worth of national television news data. We find that media coverage patterns of politicians are similar to those in the survey data."
