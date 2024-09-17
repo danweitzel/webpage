@@ -12,7 +12,7 @@ date = "2024-02-27"
 # Authors. Comma separated list, e.g.
 authors = ["Daniel Weitzel", "Gaurav Sood"]
 
-tags = ["working_paper"]
+tags = ["published"]
 
 # Publication type.
 # Legend:
@@ -23,7 +23,7 @@ tags = ["working_paper"]
 # 4 = Technical report
 # 5 = Book
 # 6 = Book chapter
-publication_types = ["3"]
+publication_types = ["2"]
 
 # Publication name and optional abbreviated version.
 publication = ""
