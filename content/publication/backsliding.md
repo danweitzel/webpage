@@ -62,7 +62,7 @@ url_source = ""
 
 # Does the content use math formatting?
 math = true
-
+ 
 # Does the content use source code highlighting?
 highlight = true
 
