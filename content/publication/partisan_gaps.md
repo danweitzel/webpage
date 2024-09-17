@@ -7,7 +7,7 @@ title = "A Measurement Gap? Effect of Survey Instrument and Scoring on the Parti
 share =  false
 
 # Date first published.
-date = "2023-10-21"
+date = "2024-01-17"
 
 # Authors. Comma separated list, e.g.
 authors = ["Lucas Shen", "Gaurav Sood", "Daniel Weitzel"]
