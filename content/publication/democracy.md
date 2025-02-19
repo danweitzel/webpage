@@ -50,14 +50,12 @@ url_pdf = ""
 url_preprint = "files/drafts/democracy_wp.pdf"
 url_code = "https://doi.org/10.7910/DVN/CWVQTZ"
 url_dataset = "https://doi.org/10.7910/DVN/CWVQTZ"
-url_project = ""
+url_project = "files/drafts/democracy_wp_appendix.pdf"
 url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-url_custom:
-  - name: "Appendix"
-    url: "/files/drafts/democracy_wp.pdf"
+
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
