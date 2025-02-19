@@ -50,11 +50,11 @@ url_pdf = ""
 url_preprint = "files/drafts/democracy_wp.pdf"
 url_code = "https://doi.org/10.7910/DVN/CWVQTZ"
 url_dataset = "https://doi.org/10.7910/DVN/CWVQTZ"
-url_appendix = "files/drafts/democracy_wp_appendix.pdf"
+url_appendix = ""
 url_slides = ""
 url_video = ""
 url_poster = ""
-url_source = ""
+url_source = "files/drafts/democracy_wp_appendix.pdf"
 
 
 # Custom links (optional).
