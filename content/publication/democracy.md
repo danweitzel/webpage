@@ -1,7 +1,7 @@
 
 
 +++
-title = "Electoral Democracy: Global, Historical Measures Based on Observables"
+title = "Measuring Electoral Democracy with Observables"
 
 # Page features
 share =  false
