@@ -56,9 +56,11 @@ url_slides = ""
 url_video = ""
 url_poster = ""
 url_source = ""
-links: 
-- name: Online Appendix
-  url: files/drafts/democracy_wp_appendix.pdf
+
+
+[[url_custom]]
+name = "Appendix"
+url = "files/drafts/democracy_wp_appendix.pdf"
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
