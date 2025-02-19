@@ -50,7 +50,6 @@ url_pdf = ""
 url_preprint = "files/drafts/democracy_wp.pdf"
 url_code = "https://doi.org/10.7910/DVN/CWVQTZ"
 url_dataset = "https://doi.org/10.7910/DVN/CWVQTZ"
-url_custom = [{name = "Appendix", url = "files/drafts/democracy_wp.pdf"}]
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -59,7 +58,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-url_custom = [{name = "Appendix", url = "files/drafts/democracy_wp.pdf"}]
+url_custom = [{name = "Appendix", url = "files/drafts/democracy_wp_appendix.pdf"}]
 
 # Does the content use math formatting?
 math = true
