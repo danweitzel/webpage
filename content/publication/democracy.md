@@ -30,7 +30,7 @@ publication = "*American Journal of Political Science*"
 publication_short = "*American Journal of Political Science*"
 
 # Abstract and optional shortened version.
-abstract = "Most crossnational indices of democracy rely centrally on coder judgments, which are susceptible to personal bias and error, and also require expensive and time-consuming coding by experts. The few measures based exclusively on observable indicators are either dichotomous or rely on a few rather crude proxies. This project lays out an approach to measurement based on observables that aims to preserve the nuanced quality of subjectively coded democracy indices. First, we gather data for a wide range of observable indicators, X´, that capture different aspects of the democratic process. Next, we use supervised machine learning to predict Z using factual indicators, X´, creating an observable-to-subjective score mapping (OSM). The mapping that provides the best cross-validated fit to the outcome serves as an alternate index, Z´, for that conceptualization of democracy. Information loss from Z to Z´ is minimal for indices centered on an electoral conception of democracy and this loss may be advantageous for some purposes. It is free of idiosyncratic coder errors arising from misinformation, slack, or biases for or against a regime. It is also less susceptible to systematic bias that may arise from coders’ inferences about a country’s regime status, e.g., from the ideology of the current ruler. The data collection procedure and mode of analysis is fully transparent and replicable, and the procedure is cheap to produce, easy to update, and offers coverage for all polities with sovereign or semisovereign status, surpassing the sample of any existing index. We show that this expansive coverage makes a big difference to our understanding of some causal questions."
+abstract = "Most crossnational indices of democracy rely centrally on coder judgments, which are susceptible to bias and error, and require expensive and time-consuming coding by experts. We present an approach to measurement based on observables that aims to preserve the nuanced quality of subjectively coded democracy indices. Our observable-to-subjective score mapping (OSM) is free of idiosyncratic coder errors arising from misinformation, slack, or biases. It is less susceptible to systematic bias that may arise from coders inferences about a countrys regime, e.g., from the ideology of the ruler. The data collection procedure and mode of analysis is fully transparent and replicable, the procedure is based on a random forests and cheap to produce, easy to update, and oﬀers coverage for all polities with sovereign or semisovereign status, surpassing the sample of any existing index. We show that this expansive coverage makes a big diﬀerence to our understanding of some causal questions."
 
 # Featured image thumbnail (optional)
 #image_preview = "/articles/democracy.png"
@@ -48,8 +48,8 @@ projects = []
 # Links (optional).
 url_pdf = ""
 url_preprint = "files/drafts/democracy_wp.pdf"
-url_code = ""
-url_dataset = ""
+url_code = "https://doi.org/10.7910/DVN/CWVQTZ"
+url_dataset = "https://doi.org/10.7910/DVN/CWVQTZ"
 url_project = ""
 url_slides = ""
 url_video = ""
@@ -58,7 +58,7 @@ url_source = ""
 
 # Custom links (optional).
 #   Uncomment line below to enable. For multiple links, use the form `[{...}, {...}, {...}]`.
-# url_custom = [{name = "Custom Link", url = "http://example.org"}]
+url_custom = [{name = "Appendix", url = "files/drafts/democracy_wp.pdf"}]
 
 # Does the content use math formatting?
 math = true
