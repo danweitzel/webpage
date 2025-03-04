@@ -87,3 +87,15 @@ user_groups:
 Welcome to my website. I am an assistant professor in the [Department of Political Science](https://polisci.colostate.edu/) and faculty affiliate at the [Data Science Research Institute](https://www.research.colostate.edu/dsri/affiliate-program/) at Colorado State University. I am also a Senior Research Fellow in the [Department of Government](https://staatswissenschaft.univie.ac.at/en/page/3/) at the University of Vienna. I received my Ph.D. in Government from the [University of Texas at Austin](https://liberalarts.utexas.edu/government/) in 2020 and was a postdoctoral researcher at the University of Vienna between 2020-22.
 
 I use text as data and machine learning to study democracy, democratic backsliding, negative campaigning, and the strategic behavior of political actors in elections, particularly the interaction between political parties and voters in democracies. I am also interested in estimating the prevalence and consequences of variation of political knowledge and information in the mass public and media.
+
+
+<script type="text/javascript">
+(function(window, document, dataLayerName, id) {
+window[dataLayerName]=window[dataLayerName]||[],window[dataLayerName].push({start:(new Date).getTime(),event:"stg.start"});var scripts=document.getElementsByTagName('script')[0],tags=document.createElement('script');
+function stgCreateCookie(a,b,c){var d="";if(c){var e=new Date;e.setTime(e.getTime()+24*c*60*60*1e3),d="; expires="+e.toUTCString();f="; SameSite=Strict"}document.cookie=a+"="+b+d+f+"; path=/"}
+var isStgDebug=(window.location.href.match("stg_debug")||document.cookie.match("stg_debug"))&&!window.location.href.match("stg_disable_debug");stgCreateCookie("stg_debug",isStgDebug?1:"",isStgDebug?14:-1);
+var qP=[];dataLayerName!=="dataLayer"&&qP.push("data_layer_name="+dataLayerName),isStgDebug&&qP.push("stg_debug");var qPString=qP.length>0?("?"+qP.join("&")):"";
+tags.async=!0,tags.src="https://danweitzel.containers.piwik.pro/"+id+".js"+qPString,scripts.parentNode.insertBefore(tags,scripts);
+!function(a,n,i){a[n]=a[n]||{};for(var c=0;c<i.length;c++)!function(i){a[n][i]=a[n][i]||{},a[n][i].api=a[n][i].api||function(){var a=[].slice.call(arguments,0);"string"==typeof a[0]&&window[dataLayerName].push({event:n+"."+i+":"+a[0],parameters:[].slice.call(arguments,1)})}}(i[c])}(window,"ppms",["tm","cm"]);
+})(window, document, 'dataLayer', '5d4406b1-6a57-4f40-b958-29306a65c9a6');
+</script>
